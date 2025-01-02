@@ -1,0 +1,162 @@
+[
+    {
+        "name":"Qingming Festival---China",
+        "zhname":"清明节---中国",
+        "description":"Located in China, the Festival is a time to honor ancestors and sweep their tombs. Families also enjoy outdoor activities such as flying kites and having spring outings in nature."
+    },
+    {
+        "name":"Diwali---India",
+        "zhname":"排灯节---印度",
+        "description":"Located in India, known as the festival of Lights. People light oil lamps and candles, exchange sweets, and burst fireworks to celebrate the victory of light over darkness."
+    },
+    {
+        "name":"Fête de la Musique---France",
+        "zhname":"音乐节---法国",
+        "description":"Located in France, the festival celebrates music on the summer solstice. Streets are filled with musicians of all genres, offering free performances for everyone to enjoy."
+    },
+    {
+        "name":"Cinco de Mayo---Mexico",
+        "zhname":"五月五日---墨西哥",
+        "description":"Located in Mexico, the festival commemorates the Mexican army's victory over French forces. Festivities include parades, music, traditional dances, and feasts with traditional Mexican food and drinks."
+    },
+    {
+        "name":"Mid-Autumn Festival---China",
+        "zhname":"中秋节---中国",
+        "description":"Located in China, the festival is celebrated with mooncakes, lanterns, and family gatherings. People admire the full moon, play traditional games, and share stories and legends."
+    },
+    {
+        "name":"Double Ninth Festival---China",
+        "zhname":"重阳节---中国",
+        "description":"Located in China, the festival is celebrated to pay respect to the elderly. Customary activities include climbing mountains, flying kites, and enjoying chrysanthemum flowers. It is also a time for drinking chrysanthemum wine and eating Chongyang cakes."
+    },
+    {
+        "name":"Day of German Unity---Germany",
+        "zhname":"德国统一日---德国",
+        "description":"Located in Germany, the day celebrates the reunification of East and West Germany. Festivities include parades, concerts, and fireworks, showcasing the diverse culture and history of the country."
+    },
+    {
+        "name":"Festa Junina---Brazil",
+        "zhname":"Festa Junina---巴西",
+        "description":"Located in Brazil, the festival is a traditional festival celebrating the harvest season. People dress up in colorful costumes, dance quadrilha, enjoy traditional foods like corn, and set bonfires to honor saints."
+    },
+    {
+        "name":"Eid al-Fitr---Islamic Countries Worldwide",
+        "zhname":"开斋节---全球伊斯兰国家",
+        "description":"Located in Islamic countries worldwide, the festival marks the end of Ramadan. Families gather for feasts, exchange gifts, and engage in charitable acts. Mosques are filled with prayers and joyous celebrations are held."
+    },
+    {
+        "name":"Carnival - Brazil",
+        "zhname":"巴西狂欢节",
+        "description":"Located in Brazil, the festival is a vibrant celebration known for its colorful costumes, samba music, and lively parades. People dance, sing, and indulge in street parties filled with samba rhythms and festive energy."
+    },
+    {
+        "name":"Dragon Boat Festival---China",
+        "zhname":"端午节---中国",
+        "description":"Located in China, the festival is celebrated with boat races, zongzi (sticky rice dumplings) eating, and hanging up pouches of herbs to ward off evil spirits. The festival commemorates Qu Yuan, a poet and statesman."
+    },
+    {
+        "name":"Spring Festival---China",
+        "zhname":"春节---中国",
+        "description":"Located in China, the festival is a time of joy and renewal. Families gather for lavish feasts, exchange red envelopes filled with lucky money, and set off fireworks to welcome the new year. The festival is also known for vibrant dragon and lion dances, and the iconic lantern displays."
+    },
+    {
+        "name":"Thanksgiving---USA",
+        "zhname":"感恩节---美国",
+        "description":"Located in the USA, the festival is a time for families to come together and express gratitude. Traditional meals include roasted turkey, cranberry sauce, and pumpkin pie. The day is marked by parades, football games, and sharing of blessings."
+    },
+    {
+        "name":"Obon---Japan",
+        "zhname":"盂兰盆节---日本",
+        "description":"Located in Japan, the festival is a festival dedicated to honoring ancestors. Families light lanterns and perform traditional dances called Bon Odori to welcome the spirits of their loved ones back to the earthly realm."
+    },
+    {
+        "name":"Boxing Day---UK",
+        "zhname":"节礼日---英国",
+        "description":"Located in the UK, the day is celebrated on December 26th. It is a day for giving gifts to the less fortunate and enjoying sports events such as horse racing and football matches."
+    },
+    {
+        "name":"Songkran---Thailand",
+        "zhname":"泼水节---泰国",
+        "description":"Located in Thailand, the festival is celebrated with water fights to welcome the Thai New Year. People splash each other with water and participate in parades, dances, and religious rituals."
+    },
+    {
+        "name":"Waitangi Day---New Zealand",
+        "zhname":"Waitangi Day---新西兰",
+        "description":"Located in New Zealand, the day commemorates the signing of the Treaty of Waitangi. It is celebrated with cultural performances, traditional Maori games, and food stalls offering Maori delicacies."
+    },
+    {
+        "name":"Fiesta de San Fermín (Running of the Bulls)---Spain",
+        "zhname":"圣费尔明节---西班牙",
+        "description":"Located in Pamplona, Spain, this festival involves the thrilling running of bulls through the city streets. Participants dress in white with red scarves and celebrate with music, dancing, and bullfights."
+    },
+    {
+        "name":"Loy Krathong---Thailand",
+        "zhname":"洛杉矶克朗节---泰国",
+        "description":"Located in Thailand, the festival is celebrated by floating handmade banana leaf boats with candles, incense, and offerings on rivers. Fireworks light up the night sky as people release lanterns into the air."
+    },
+    {
+        "name":"St. Patrick's Day---Ireland",
+        "zhname":"圣帕特里克节---爱尔兰",
+        "description":"Located in Ireland, the day is celebrated with parades, wearing green attire, and the iconic shamrock symbol. People indulge in traditional Irish food and drinks like corned beef and Guinness."
+    },
+    {
+        "name":"Midsummer---Sweden",
+        "zhname":"仲夏节---瑞典",
+        "description":"Located in Sweden, the festival is celebrated with dancing around maypoles, gathering wildflowers, and feasting on traditional foods like pickled herring and strawberries. It is a joyful festival that marks the arrival of summer."
+    },
+    {
+        "name":"Maslenitsa---Russia",
+        "zhname":"Maslenitsa---俄罗斯",
+        "description":"Located in Russia, the festival is a joyful festival celebrated before the start of Lent. People indulge in blini (pancakes) and engage in snowball fights to bid goodbye to winter and welcome spring."
+    },
+    {
+        "name":"Seollal---South Korea",
+        "zhname":"Seollal---韩国",
+        "description":"Located in South Korea, the festival is a celebration of the Lunar New Year. Families gather to pay respect to ancestors, engage in traditional games, and enjoy a feast of rice cake soup and various side dishes."
+    },
+    {
+        "name":"King's Day---Netherlands",
+        "zhname":"国王节---荷兰",
+        "description":"Located in Netherlands, the day is a national celebration in honor of the monarch's birthday. The streets turn orange as people participate in lively parades, concerts, and flea markets."
+    },
+    {
+        "name":"Nowruz---Iran & Central Asia",
+        "zhname":"诺鲁孜---伊朗和中亚",
+        "description":"Located in Iran and Central Asia, the festival celebrates the arrival of spring with rituals of cleaning, feasting on traditional dishes like sabzi polo and haft-sin table, and jumping over bonfires for good luck."
+    },
+    {
+        "name":"Carnival of Venice---Italy",
+        "zhname":"威尼斯狂欢节---意大利",
+        "description":"Located in Italy, the festival is known for its vibrant masks, elegant costumes, and intricate Venetian architecture. Visitors can enjoy street performances, music, and indulge in traditional Italian food and drinks."
+    },
+    {
+        "name":"Easter---Christian Communities Worldwide",
+        "zhname":"复活节---全球基督教社区",
+        "description":"Located in Christian communities worldwide, the festival celebrates the resurrection of Jesus Christ. It involves attending church services, decorating eggs, and indulging in special meals like roast lamb and hot cross buns. The festival also symbolizes the arrival of spring and new beginnings."
+    },
+    {
+        "name":"Gion Matsuri---Japan",
+        "zhname":"祇园祭---日本",
+        "description":"Located in Japan, a summer festival celebrated in Kyoto. It showcases stunning floats, traditional performances, and delicious street food. The festival originated in the 9th century to pray for good harvests and ward off epidemics."
+    },
+    {
+        "name":"Christmas---USA",
+        "zhname":"圣诞节---美国",
+        "description":"Located in USA, the festival is celebrated with festive decorations, gift exchanges, and feasts. People attend church services and children eagerly await gifts from Santa Claus."
+    },
+    {
+        "name":"Lantern Festival---China",
+        "zhname":"元宵节---中国",
+        "description":"Located in China, the festival marks the end of Chinese New Year celebrations. Families hang lanterns and enjoy sweet glutinous rice dumplings called tangyuan. Streets are illuminated with colorful lantern displays and traditional lion and dragon dances fill the air."
+    },
+    {
+        "name":"Qixi Festival---China",
+        "zhname":"七夕节---中国",
+        "description":"Located in China, the festival is also known as the Chinese Valentine's Day. On this day, lovebirds celebrate their love by writing poems, making wishes, and praying for happiness. The festival is filled with romantic customs, such as weaving colorful silk threads and releasing lanterns into the sky."
+    },
+    {
+        "name":"Raksha Bandhan - India",
+        "zhname":"拉克沙班甘节 - 印度",
+        "description":"Located in India, the festival celebrates the eternal bond between brothers and sisters. Sisters tie a sacred thread called \"rakhi\" around their brothers' wrists and receive gifts in return. It is a day of love, protection, and sibling unity."
+    }
+]

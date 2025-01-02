@@ -1,0 +1,370 @@
+[
+    {
+        "name":"Tacos--Mexico",
+        "zhname":"塔科斯---墨西哥",
+        "description_1":"It's a Mexican dish consisting of a tortilla filled with various ingredients.",
+        "description_2":"Common fillings include meat, cheese, beans, lettuce, and salsa.",
+        "description_3":"Tacos are often folded in half and served as handheld meals.",
+        "description_total":"a traditional food from Mexico, are tortillas filled with ingredients like meat, cheese, and salsa, commonly enjoyed as handheld meals."
+    },
+    {
+        "name":"Moussaka--Greece",
+        "zhname":"穆萨卡---希腊",
+        "description_1":"It is a classic Greek dish made with layers of eggplant, minced meat, and béchamel sauce.",
+        "description_2":"Other ingredients like potatoes, tomatoes, and onions are also commonly used.",
+        "description_3":"It is usually baked until golden brown and served warm as a main course.",
+        "description_total":"a traditional food from Greece, is a layered dish made with eggplant, minced meat, and béchamel sauce, commonly served as a warm main course."
+    },
+    {
+        "name":"Sushi--Japan",
+        "zhname":"寿司---日本",
+        "description_1":"It is a traditional Japanese dish that consists of vinegared rice and raw or cooked seafood.",
+        "description_2":"The rice is often seasoned with soy sauce, ginger, and wasabi for added flavor.",
+        "description_3":"Sushi is enjoyed for its delicate flavors, beautiful presentation, and cultural significance.",
+        "description_total":"a traditional food from Japan, is a combination of vinegared rice and seafood, seasoned with soy sauce and served for its exquisite taste and cultural importance."
+    },
+    {
+        "name":"印尼干咖喱",
+        "zhname":"",
+        "description_1":"Rendang--Indonesia",
+        "description_2":"It is a spicy meat dish originating from Indonesia, often referred to as a dry curry.",
+        "description_3":"Made by slow cooking beef, chicken, or goat with coconut milk and a rich blend of spices.",
+        "description_total":"a spicy meat dish originating from Indonesia, often referred to as a dry curry, the slow cooking process allows the flavors to infuse and the meat to become tender and succulent."
+    },
+    {
+        "name":"Baklava--Turkey",
+        "zhname":"巴克拉瓦---土耳其",
+        "description_1":"It is a rich, sweet pastry made of layers of filo dough filled with chopped nuts.",
+        "description_2":"The layers are brushed with butter and baked until golden and crispy.",
+        "description_3":"After baking, it is soaked in a sweet syrup made of honey or sugar.",
+        "description_total":"a traditional food from Turkey, is a sweet pastry with layers of filo dough and nuts, baked golden and crispy, and soaked in sweet syrup."
+    },
+    {
+        "name":"汉堡---美国",
+        "zhname":"",
+        "description_1":"Burger--USA",
+        "description_2":"It's a sandwich consisting of a cooked ground meat patty, usually beef.",
+        "description_3":"It is commonly served in a bun and topped with lettuce, tomato, cheese, and various sauces.",
+        "description_total":"A classic American sandwich, this dish includes a beef patty, cheese, lettuce, tomato, and sauces, served in a bun, popular in fast food and casual dining."
+    },
+    {
+        "name":"Satay--Indonesia",
+        "zhname":"沙爹---印度尼西亚",
+        "description_1":"It is a popular dish consisting of skewered and grilled meat, typically served with a peanut sauce.",
+        "description_2":"The meat can be chicken, beef, or pork, and it is marinated in a flavorful blend of spices.",
+        "description_3":"Satay is often enjoyed as street food and is known for its smoky and savory taste.",
+        "description_total":"a traditional food from Indonesia, is a popular dish of skewered and grilled meat, marinated in spices and served with a peanut sauce, known for its smoky and savory taste."
+    },
+    {
+        "name":"Borscht--Ukraine",
+        "zhname":"罗宋汤---乌克兰",
+        "description_1":"It's a soup made with beetroots as the main ingredient, along with cabbage, potatoes, and other vegetables.",
+        "description_2":"Meat, such as beef or pork, is commonly added for flavor and richness.",
+        "description_3":"The soup is known for its vibrant red color and is often served with a dollop of sour cream.",
+        "description_total":"a traditional food from Ukraine, is a vibrant red soup made with beetroots, cabbage, and potatoes, often featuring meat and served with sour cream."
+    },
+    {
+        "name":"海鲜饭---西班牙",
+        "zhname":"",
+        "description_1":"Paella--Spain",
+        "description_2":"It's a saffron-infused rice dish cooked with a variety of ingredients, especially seafood.",
+        "description_3":"Other common ingredients include chicken, rabbit, and a variety of vegetables.",
+        "description_total":"This traditional Spanish dish is a medley of saffron-infused rice, seafood, chicken, rabbit, and an array of vegetables, all cooked together in a shallow pan to create a distinctively crispy bottom layer."
+    },
+    {
+        "name":"Kimchi--Korea",
+        "zhname":"泡菜---韩国",
+        "description_1":"It is a traditional Korean side dish made of fermented vegetables, usually cabbage.",
+        "description_2":"It has a distinctive spicy, tangy flavor and is rich in vitamins and probiotics.",
+        "description_3":"Kimchi is often enjoyed as a condiment, served with rice, soup, or as a filling in various dishes.",
+        "description_total":"a traditional food from Korea, is a spicy and tangy side dish made from fermented vegetables, commonly cabbage, and is packed with vitamins and probiotics. It is versatile and can be enjoyed on its own or used as a flavor enhancer in a variety of dishes."
+    },
+    {
+        "name":"马萨拉多萨---印度",
+        "zhname":"",
+        "description_1":"Masala Dosa--India",
+        "description_2":"It's a popular South Indian dish consisting of a crispy rice and lentil crepe.",
+        "description_3":"The crepe is filled with a spicy potato mixture and served with chutney and sambar.",
+        "description_total":"It is a breakfast staple known for its unique taste and combination of flavors."
+    },
+    {
+        "name":"Fish and Chips--England",
+        "zhname":"炸鱼薯条---英国",
+        "description_1":"It is a popular dish consisting of battered fish and deep-fried potato chips.",
+        "description_2":"The fish is usually cod or haddock, and it is crispy on the outside and tender inside.",
+        "description_3":"It is often served with tartar sauce, mushy peas, and vinegar for added flavor.",
+        "description_total":"a traditional food from England, is a popular dish of crispy battered fish and deep-fried potato chips, commonly enjoyed with tartar sauce, mushy peas, and vinegar."
+    },
+    {
+        "name":"北京烤鸭---中国",
+        "zhname":"",
+        "description_1":"Peking Duck--China",
+        "description_2":"It is a famous dish that originated from Beijing and is known for its thin and crispy skin.",
+        "description_3":"The duck is typically air-dried and roasted in a special oven until the skin becomes golden and crispy.",
+        "description_total":"A renowned Beijing dish, this features a duck with thin, crispy, golden skin, air-dried and roasted, served with pancakes, scallions, and hoisin sauce."
+    },
+    {
+        "name":"Pizza--Italy",
+        "zhname":"披萨---意大利",
+        "description_1":"It's a delicious dish consisting of a flatbread base topped with tomato sauce and various ingredients.",
+        "description_2":"Cheese, meat, vegetables, and herbs are commonly used as toppings, creating a burst of flavors.",
+        "description_3":"Baked in a hot oven, it's a popular and versatile dish enjoyed around the world.",
+        "description_total":"a traditional food from Italy, is a mouthwatering flatbread topped with tomato sauce, cheese, and a variety of ingredients, baked to perfection in a hot oven."
+    },
+    {
+        "name":"Fajitas--Mexico",
+        "zhname":"炒肉卷---墨西哥",
+        "description_1":"It is a dish made with grilled or sautéed strips of meat, typically beef or chicken.",
+        "description_2":"The meat is often accompanied by onions and bell peppers, giving it a flavorful and colorful combination.",
+        "description_3":"Served with warm tortillas, guacamole, salsa, and sour cream, it is a popular Mexican dish enjoyed worldwide.",
+        "description_total":"a traditional food from Mexico, consist of grilled or sautéed meat strips complemented by onions and bell peppers, typically served with tortillas, guacamole, salsa, and sour cream."
+    },
+    {
+        "name":"Croissant--France",
+        "zhname":"牛角面包---法国",
+        "description_1":"It is a buttery, flaky pastry that is crescent-shaped and made with yeast dough.",
+        "description_2":"The layers are created by folding and rolling the dough with butter.",
+        "description_3":"Croissants are enjoyed as a breakfast or snack and can be plain or filled with various ingredients.",
+        "description_total":"a traditional food from France, is a buttery, flaky pastry with a crescent shape, made with layers of yeast dough and enjoyed plain or filled with different ingredients."
+    },
+    {
+        "name":"Pho---越南",
+        "zhname":"",
+        "description_1":"Pho--Vietnam",
+        "description_2":"It's a Vietnamese soup consisting of broth, rice noodles, and different types of meat.",
+        "description_3":"The dish is often garnished with herbs, bean sprouts, lime, and chili.",
+        "description_total":"This soup from Vietnam, combines broth, rice noodles, various meats, and is garnished with herbs, bean sprouts, lime, and chili, a popular national street food."
+    },
+    {
+        "name":"Laksa--Malaysia",
+        "zhname":"叻沙---马来西亚",
+        "description_1":"It is a spicy noodle soup dish with a rich and flavorful broth.",
+        "description_2":"The dish is typically made with coconut milk, spices, and chili paste.",
+        "description_3":"It often includes ingredients like noodles, shrimp, fish cakes, and bean sprouts.",
+        "description_total":"a traditional food from Malaysia, is a flavorful and spicy noodle soup made with coconut milk, spices, and various toppings like shrimp and fish cakes."
+    },
+    {
+        "name":"薯条奶酪---加拿大",
+        "zhname":"",
+        "description_1":"Poutine--Canada",
+        "description_2":"It's a classic Canadian dish made with french fries topped with cheese curds and smothered in gravy.",
+        "description_3":"Poutine is a popular comfort food known for its savory and indulgent flavors.",
+        "description_total":"A classic Canadian comfort food, consisting of french fries topped with cheese curds and covered in gravy, known for its savory, indulgent flavors."
+    },
+    {
+        "name":"龙虾浓汤---法国",
+        "zhname":"",
+        "description_1":"Lobster Bisque--France",
+        "description_2":"It is a creamy soup made from lobster shells, onions, celery, and other flavorful ingredients.",
+        "description_3":"The soup is then strained and blended until smooth, creating a rich and velvety texture.",
+        "description_total":"A traditional creamy soup from France, crafted from lobster shells, onions, and celery, strained and blended for a velvety texture, enhanced with cream and fresh herbs."
+    },
+    {
+        "name":"Biryani--India",
+        "zhname":"印度烤饭---印度",
+        "description_1":"Biryani is a flavorful rice dish cooked with fragrant spices and a choice of vegetables, meat, or fish.",
+        "description_2":"It is often layered with marinated meat or vegetables, and cooked to perfection in a sealed pot.",
+        "description_3":"The dish is known for its rich aroma and unique blend of spices, making it a popular choice for special occasions.",
+        "description_total":"a traditional food from India, is a flavorful rice dish cooked with fragrant spices and layered with marinated meat or vegetables, known for its rich aroma and unique blend of spices."
+    },
+    {
+        "name":"Tom Yum Goong--Thailand",
+        "zhname":"冬阴功---泰国",
+        "description_1":"It's a spicy and sour soup made with shrimp, lemongrass, lime leaves, and chili peppers.",
+        "description_2":"The soup is bursting with flavors, combining tangy, citrusy, and spicy notes.",
+        "description_3":"It is often served with fragrant jasmine rice or noodles, providing a perfect balance of flavors.",
+        "description_total":"a traditional food from Thailand, is a spicy and sour soup made with shrimp, lemongrass, lime leaves, and chili peppers, bursting with tangy and spicy flavors, and often accompanied by fragrant rice or noodles."
+    },
+    {
+        "name":"Tagine--Morocco",
+        "zhname":"塔吉嫩---摩洛哥",
+        "description_1":"It is a dish cooked in a special clay pot with a conical shaped lid.",
+        "description_2":"Common ingredients include meat or vegetables, flavored with a variety of spices and herbs.",
+        "description_3":"The slow cooking process allows the flavors to blend and results in a tender and aromatic dish.",
+        "description_total":"a traditional food from Morocco, is a slow-cooked dish made with meat or vegetables, cooked in a special clay pot, resulting in a flavorful and tender meal."
+    },
+    {
+        "name":"烤肉---韩国",
+        "zhname":"",
+        "description_1":"Bulgogi---Korea",
+        "description_2":"It's a grilled dish made of marinated thin slices of beef or pork.",
+        "description_3":"The meat is marinated in a mixture of soy sauce, sugar, garlic, and sesame oil.",
+        "description_total":"A Korean grilled dish of thin beef or pork slices marinated in soy sauce, sugar, garlic, and sesame oil, often served with kimchi and lettuce for wrapping."
+    },
+    {
+        "name":"菲日达---巴西",
+        "zhname":"",
+        "description_1":"Feijoada--Brazil",
+        "description_2":"It is a hearty black bean stew typically cooked with various cuts of pork.",
+        "description_3":"It is often served with rice, collard greens, farofa (toasted cassava flour), and orange slices.",
+        "description_total":"A Brazilian black bean stew cooked with various pork cuts, typically served with rice, collard greens, farofa, and orange slices, enjoyed on special occasions."
+    },
+    {
+        "name":"Lasagna--Italy",
+        "zhname":"千层面---意大利",
+        "description_1":"It is a traditional Italian pasta dish made with layers of pasta sheets, meat sauce, cheese, and béchamel sauce.",
+        "description_2":"The meat sauce can be made with ground beef, pork, or a combination of both, flavored with herbs and tomatoes.",
+        "description_3":"Baked until golden and bubbly, lasagna is a hearty and satisfying comfort food loved worldwide.",
+        "description_total":"a traditional food from Italy, is a layered pasta dish with meat sauce, cheese, and béchamel sauce, baked to perfection for a comforting and filling meal."
+    },
+    {
+        "name":"Arepa--Venezuela & Colombia",
+        "zhname":"阿雷帕---委内瑞拉和哥伦比亚",
+        "description_1":"It is a type of bread made from ground maize dough, shaped into a patty.",
+        "description_2":"It can be grilled, baked, or fried, resulting in a crispy outer layer and a soft, doughy center.",
+        "description_3":"Arepas are often filled with various ingredients such as cheese, meat, beans, or avocado.",
+        "description_total":"a traditional food from Venezuela and Colombia, is a patty made from ground maize dough, cooked to have a crispy exterior and a soft interior, often filled with cheese, meat, beans, or avocado."
+    },
+    {
+        "name":"Churro--Spain",
+        "zhname":"久久奶饼---西班牙",
+        "description_1":"It's a fried dough pastry, usually eaten for breakfast or as a snack.",
+        "description_2":"The dough is piped through a star-shaped nozzle, giving it a distinctive shape.",
+        "description_3":"It is often served with a cup of thick chocolate for dipping.",
+        "description_total":"a traditional food from Spain, are fried dough pastries with a distinctive star shape, often enjoyed with a cup of thick chocolate."
+    },
+    {
+        "name":"Tapas--Spain",
+        "zhname":"塔帕斯---西班牙",
+        "description_1":"It refers to a wide variety of small dishes that are typically served with drinks.",
+        "description_2":"These dishes can include cured meats, seafood, olives, cheeses, and vegetables.",
+        "description_3":"Tapas are meant to encourage conversation, socializing, and sharing among diners.",
+        "description_total":"a traditional food from Spain, are a selection of small dishes served with drinks, including cured meats, seafood, cheeses, and vegetables, promoting conversation and sharing."
+    },
+    {
+        "name":"Miso Soup--Japan",
+        "zhname":"味噌汤---日本",
+        "description_1":"It's a traditional Japanese soup made with fermented soybean paste, called \"miso\".",
+        "description_2":"Other common ingredients include tofu, seaweed, and vegetables.",
+        "description_3":"It is typically served as a side dish with rice and other dishes in a Japanese meal.",
+        "description_total":"a traditional food from Japan, is a flavorful soup made with fermented soybean paste, commonly served with tofu, seaweed, and vegetables as a side dish in a Japanese meal."
+    },
+    {
+        "name":"Pavlova--Australia & New Zealand",
+        "zhname":"帕夫洛娃----澳大利亚和新西兰",
+        "description_1":"It is a meringue-based dessert with a crisp crust and a soft, light inside.",
+        "description_2":"The dessert is usually topped with whipped cream and fresh fruits, such as strawberries and kiwi.",
+        "description_3":"It is named after the Russian ballet dancer, Anna Pavlova, and is a popular dessert in both Australia and New Zealand.",
+        "description_total":"a traditional food from Australia and New Zealand, is a meringue-based dessert with a crispy crust, topped with whipped cream and fresh fruits. It is named after the Russian ballet dancer, Anna Pavlova."
+    },
+    {
+        "name":"Tiramisu--Italy",
+        "zhname":"提拉米苏---意大利",
+        "description_1":"It's a classic Italian dessert consisting of layers of coffee-soaked ladyfingers and creamy mascarpone cheese.",
+        "description_2":"Cocoa powder is sprinkled on top, adding a touch of bitterness to balance the sweetness.",
+        "description_3":"With its velvety texture and rich flavors, it has become one of the most beloved desserts worldwide.",
+        "description_total":"a traditional food from Italy, is a decadent dessert made with layers of coffee-soaked ladyfingers, creamy mascarpone cheese, and a sprinkle of cocoa powder."
+    },
+    {
+        "name":"拉面---日本",
+        "zhname":"",
+        "description_1":"Ramen--Japan",
+        "description_2":"It is a Japanese noodle dish with Chinese origins, consisting of wheat noodles served in a meat or fish-based broth.",
+        "description_3":"Toppings like sliced pork, seaweed, soft-boiled eggs, and green onions are commonly added.",
+        "description_total":"A Japanese noodle dish of Chinese origin, featuring wheat noodles in a meat or fish-based broth, with toppings like pork, seaweed, eggs, and green onions, in various flavors."
+    },
+    {
+        "name":"Sashimi--Japan",
+        "zhname":"刺身---日本",
+        "description_1":"It's a traditional Japanese dish consisting of thinly sliced, raw seafood or fish.",
+        "description_2":"The most common types of seafood used for sashimi include tuna, salmon, and octopus.",
+        "description_3":"Served with soy sauce and wasabi, it is a popular delicacy in Japanese cuisine.",
+        "description_total":"a traditional food from Japan, is a dish of thinly sliced, raw seafood or fish, commonly served with soy sauce and wasabi."
+    },
+    {
+        "name":"摩尔---墨西哥",
+        "zhname":"",
+        "description_1":"Mole--Mexico",
+        "description_2":"It is a traditional Mexican sauce with rich flavors, made from a variety of ingredients including chili peppers, spices, nuts, and chocolate.",
+        "description_3":"Mole is often served with meat, such as chicken or turkey, and is known for its complex and savory taste.",
+        "description_total":"A traditional Mexican sauce known for its rich, complex flavors, made from chili peppers, spices, nuts, and chocolate, often served with chicken or turkey."
+    },
+    {
+        "name":"Pozole--Mexico",
+        "zhname":"波索勒---墨西哥",
+        "description_1":"It is a traditional Mexican soup made with hominy, meat (usually pork), and various spices.",
+        "description_2":"The dish is often garnished with shredded lettuce, radishes, onions, and lime juice.",
+        "description_3":"Pozole is commonly served during celebrations and special occasions in Mexico.",
+        "description_total":"a traditional food from Mexico, is a flavorful soup made with hominy, meat, and spices, garnished with lettuce, radishes, onions, and lime juice, often enjoyed during festive occasions."
+    },
+    {
+        "name":"包子---中国",
+        "zhname":"",
+        "description_1":"Baozi -- China",
+        "description_2":"It is a type of steamed bun filled with a variety of ingredients, such as meat or vegetables.",
+        "description_3":"The dough is fluffy and the filling is juicy and flavorful.",
+        "description_total":"A Chinese steamed bun, fluffy in texture, filled with juicy and flavorful meat or vegetables, often enjoyed as breakfast, lunch, or a snack."
+    },
+    {
+        "name":"Mango Sticky Rice--Thailand",
+        "zhname":"芒果糯米饭---泰国",
+        "description_1":"It's a popular Thai dessert made with glutinous rice, fresh mango slices, and coconut milk.",
+        "description_2":"The sticky rice is cooked with coconut milk and sugar, giving it a creamy and sweet flavor.",
+        "description_3":"It is commonly served as a treat during special occasions or as a refreshing dessert on hot summer days.",
+        "description_total":"a traditional food from Thailand, is a delicious dessert made with coconut-infused sticky rice, fresh mango, and creamy coconut milk. It is often enjoyed during celebrations or as a cooling sweet treat."
+    },
+    {
+        "name":"Coq au Vin--France",
+        "zhname":"红酒煮鸡---法国",
+        "description_1":"Coq au Vin is a classic French dish made with chicken braised in red wine.",
+        "description_2":"It is typically cooked with mushrooms, onions, garlic, and bacon.",
+        "description_3":"The dish is known for its rich flavors and tender, melt-in-your-mouth chicken.",
+        "description_total":"a traditional food from France, features chicken simmered in red wine with mushrooms, onions, garlic, and bacon, resulting in a flavorful and tender dish."
+    },
+    {
+        "name":"Bobotie--South Africa",
+        "zhname":"博博提---南非",
+        "description_1":"Bobotie is a dish made with spiced minced meat baked with an egg-based topping.",
+        "description_2":"It incorporates flavors of curry, fruit chutney, and aromatics like onion and garlic.",
+        "description_3":"It is served with yellow rice, often accompanied by sambal, a spicy relish.",
+        "description_total":"a traditional food from South Africa, is a spiced minced meat dish baked with an egg-based topping, bursting with curry flavors and served with yellow rice and sambal."
+    },
+    {
+        "name":"烩饭---意大利",
+        "zhname":"",
+        "description_1":"Risotto--Italy",
+        "description_2":"It is a traditional dish made with a specific type of short-grain rice, usually Arborio or Carnaroli.",
+        "description_3":"The rice is slowly cooked in a broth, often with onions, butter, white wine, and Parmesan cheese.",
+        "description_total":"A traditional Italian dish, using Arborio or Carnaroli rice, slowly cooked in broth with onions, butter, white wine, and Parmesan, yielding a creamy, flavorful rice."
+    },
+    {
+        "name":"Apple Pie--USA",
+        "zhname":"苹果派---美国",
+        "description_1":"It is a dessert pie with a flaky pastry crust and a filling made of sliced apples.",
+        "description_2":"The apples are usually flavored with cinnamon, sugar, and sometimes nutmeg or lemon juice.",
+        "description_3":"It is commonly served with a scoop of vanilla ice cream or a dollop of whipped cream.",
+        "description_total":"a traditional food from the USA, is a dessert pie with a flaky crust and a filling of sliced apples flavored with cinnamon, sugar, and other spices, often served with ice cream or whipped cream."
+    },
+    {
+        "name":"蜗牛---法国",
+        "zhname":"",
+        "description_1":"Escargot--France",
+        "description_2":"It's a dish made from cooked land snails, typically served as an appetizer.",
+        "description_3":"The snails are usually prepared with garlic, butter, parsley, and sometimes wine.",
+        "description_total":"A French delicacy, typically served as an appetizer, featuring cooked land snails prepared with garlic, butter, parsley, and sometimes wine, offering a unique texture and flavor."
+    },
+    {
+        "name":"担担面--中国",
+        "zhname":"",
+        "description_1":"Dan Dan Noodles--China",
+        "description_2":"It's a popular Szechuan dish characterized by spicy flavors and noodles in a savory sauce.",
+        "description_3":"Minced meat, chili oil, and Szechuan peppercorns are common ingredients in the sauce.",
+        "description_total":"A popular Chinese Szechuan dish, featuring spicy, savory sauce with minced meat, chili oil, and Szechuan peppercorns, served over thick, chewy noodles with meat and vegetables."
+    },
+    {
+        "name":"鹰嘴豆泥---中东",
+        "zhname":"",
+        "description_1":"Hummus--Middle East",
+        "description_2":"It is a traditional Middle Eastern dip or spread made from cooked, mashed chickpeas.",
+        "description_3":"Other ingredients include tahini (sesame seed paste), olive oil, lemon juice, and garlic.",
+        "description_total":"A traditional Middle Eastern dip or spread, made from mashed chickpeas blended with tahini, olive oil, lemon juice, and garlic, popular as an appetizer or snack."
+    },
+    {
+        "name":"Tteokbokki--Korea",
+        "zhname":"炒年糕---韩国",
+        "description_1":"It's a popular Korean street food made with chewy rice cakes cooked in a spicy sauce.",
+        "description_2":"Often served with fish cakes, boiled eggs, and scallions for added flavor and texture.",
+        "description_3":"The combination of the chewy rice cakes and the spicy sauce creates a satisfying and addictive dish.",
+        "description_total":"a traditional food from Korea, is a popular street food made with chewy rice cakes cooked in a spicy sauce, often served with fish cakes, boiled eggs, and scallions. It's a satisfying and addictive dish."
+    }
+]

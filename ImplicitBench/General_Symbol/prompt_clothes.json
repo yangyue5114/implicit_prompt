@@ -1,0 +1,402 @@
+[
+    {
+        "name":"Panama Hat---Ecuador",
+        "zhname":"巴拿马帽---厄瓜多尔",
+        "description_1":"A brimmed hat made from woven palm leaves or straw.",
+        "description_2":"Originating from Ecuador, not Panama as the name suggests.",
+        "description_3":"Known for its lightweight and breathable qualities, perfect for hot climates.",
+        "description_total":"A traditional costume from Ecuador, a brimmed hat made from woven palm leaves or straw, providing a lightweight and breathable option for hot climates."
+    },
+    {
+        "name":"Kimono---Japan",
+        "zhname":"和服---日本",
+        "description_1":"A traditional Japanese garment with a T-shaped silhouette and wide, straight sleeves.",
+        "description_2":"Made from silk or other high-quality fabrics, adorned with intricate patterns and designs.",
+        "description_3":"Worn by both men and women for special occasions and ceremonies.",
+        "description_total":"a traditional costume from Japan, is known for its T-shaped silhouette, wide sleeves, exquisite fabrics, and use for special events and ceremonies."
+    },
+    {
+        "name":"Tupenu---Tonga",
+        "zhname":"图亚格图衣---汤加",
+        "description_1":"A wrap-around skirt made from a rectangular piece of cloth.",
+        "description_2":"Typically worn by both men and women in Tonga.",
+        "description_3":"Often decorated with bright colors and floral patterns.",
+        "description_total":"a traditional costume from Tonga,usually a wrap-around skirt worn by both men and women. It is known for its vibrant colors and floral designs."
+    },
+    {
+        "name":"Spanish Flamenco Dress---Spain",
+        "zhname":"西班牙弗拉明戈舞长裙---西班牙",
+        "description_1":"An elegant, floor-length dress with ruffled sleeves and a fitted bodice.",
+        "description_2":"Typically made from vibrant, flamboyant fabrics like silk and satin.",
+        "description_3":"Accompanied by a strong, passionate dance form expressing intense emotions.",
+        "description_total":"a traditional costume from Spain, is a stunning floor-length dress with ruffled sleeves. Made from vibrant fabrics, it matches the passionate and expressive Flamenco dance style."
+    },
+    {
+        "name":"Sari---India",
+        "zhname":"印度纱丽",
+        "description_1":"A long, unstitched garment draped around the body, usually in bright colors and rich fabrics.",
+        "description_2":"Can vary in style and fabric depending on the region and occasion.",
+        "description_3":"Often adorned with intricate designs, embroidery, and embellishments.",
+        "description_total":"a traditional costume from India, is a vibrant, unstitched garment that can be styled in various ways, showcasing intricate designs and luxurious fabrics."
+    },
+    {
+        "name":"Hanbok---Korea",
+        "zhname":"韩服---韩国",
+        "description_1":"A vibrant and colorful dress worn by men and women in Korea.",
+        "description_2":"Features a high waistline and voluminous skirt for women, and loose pants for men.",
+        "description_3":"Often made with silk and adorned with beautiful embroidery and traditional patterns.",
+        "description_total":"a traditional costumes from Korea, are known for their vibrant colors, high waistlines, voluminous skirts, loose pants, and exquisite embroidery."
+    },
+    {
+        "name":"Cheongsam or Qipao---China",
+        "zhname":"旗袍---中国",
+        "description_1":"A body-hugging one-piece dress that originated in the 1920s Shanghai.",
+        "description_2":"Typically made from silk or satin, it features a high collar and side slits.",
+        "description_3":"Embodies elegance and femininity, highlighting the curves of the wearer.",
+        "description_total":"a traditional costume from China, is a body-hugging dress with a high collar, side slits, and a graceful appeal."
+    },
+    {
+        "name":"Gho and Kira---Bhutan",
+        "zhname":"国服---不丹",
+        "description_1":"Gho is a knee-length robe worn by Bhutanese men, secured with a belt.",
+        "description_2":"Kira is a long, colorful dress wrapped around the body and pinned at the shoulder.",
+        "description_3":"These costumes reflect the unique cultural heritage and identity of Bhutan.",
+        "description_total":"Traditional costumes from Bhutan, the Gho for men and Kira for women, beautifully showcase the country's rich cultural heritage and identity."
+    },
+    {
+        "name":"Kente Cloth---Ghana",
+        "zhname":"肯特布---加纳",
+        "description_1":"A brightly colored, handwoven fabric made of silk or cotton.",
+        "description_2":"Features intricate geometric patterns and traditional symbols with cultural significance.",
+        "description_3":"Historically worn by royalty and for special occasions, it represents Ghanaian craftsmanship and identity.",
+        "description_total":"a traditional costume from Ghana, is a vibrant handwoven fabric adorned with intricate patterns and symbols, symbolizing Ghanaian culture, royalty, and craftsmanship."
+    },
+    {
+        "name":"Baju Kurung---Malaysia",
+        "zhname":"巴峇库伦---马来西亚",
+        "description_1":"Loose-fitting, long-sleeved top paired with a long skirt or pants.",
+        "description_2":"Commonly worn by Malaysian women for festive occasions or as daily attire.",
+        "description_3":"Reflects the cultural diversity of Malaysia with various fabrics, colors, and patterns.",
+        "description_total":"a traditional costume from Malaysia, consists of a loose-fitting top and long skirt or pants, showcasing the country's cultural diversity through a wide range of fabrics, colors, and patterns."
+    },
+    {
+        "name":"Hula Skirt---Hawaii",
+        "zhname":"呼啦裙---夏威夷",
+        "description_1":"A grass skirt worn by hula dancers during traditional Hawaiian dance performances.",
+        "description_2":"Made from long leaves of the hala tree, coconut or ti leaves are also used.",
+        "description_3":"The movement of the skirt enhances the graceful and rhythmic motions of the hula dance.",
+        "description_total":"a traditional costume from Hawaii, is a grass skirt worn by hula dancers, made from hala, coconut or ti leaves, adding grace to the rhythmic hula dance."
+    },
+    {
+        "name":"Bunad---Norway",
+        "zhname":"布纳德---挪威",
+        "description_1":"A traditional Norwegian costume worn for special occasions and celebrations.",
+        "description_2":"Made from wool, silk, and linen, featuring intricate embroidery and metal jewelry.",
+        "description_3":"Each region in Norway has its own distinct style and design of Bunad.",
+        "description_total":"a traditional costumes from Norway, are made with wool, silk, linen, and adorned with embroidery and jewelry, showcasing unique regional styles and designs."
+    },
+    {
+        "name":"Keft - Morocco and other Middle Eastern countries",
+        "zhname":"开夫特---摩洛哥和其他中东国家",
+        "description_1":null,
+        "description_2":"Loose, long-sleeved robe often made of luxurious fabrics such as silk or velvet.",
+        "description_3":"Typically worn by both men and women for special occasions or as everyday attire.",
+        "description_total":"A luxurious robe from Morocco and Middle Eastern countries, often silk or velvet, worn by all genders, adorned with intricate embroidery, beads, and sequins, reflecting cultural heritage."
+    },
+    {
+        "name":"Mongolian Deel---Mongolia",
+        "zhname":"蒙古袍---蒙古",
+        "description_1":"A loose-fitting, ankle-length garment with wide sleeves and a high collar.",
+        "description_2":"Typically made from brightly colored silk or brocade adorned with intricate patterns.",
+        "description_3":"Reflects the nomadic lifestyle and cultural heritage of the Mongolian people.",
+        "description_total":"a traditional costume from Mongolia, is a loose-fitting garment made from colorful silk or brocade, representing the nomadic lifestyle and cultural heritage."
+    },
+    {
+        "name":"Cossack Uniform---Russia",
+        "zhname":"哥萨克制服---俄罗斯",
+        "description_1":"A military-style uniform with a distinct Eastern European flair.",
+        "description_2":"Embellished with decorative braids, badges, and traditional Cossack accessories.",
+        "description_3":"Reflects the rich cultural heritage and warrior spirit of the Cossack people.",
+        "description_total":"a traditional costume from Russia, is a military-style outfit adorned with decorative details that represent the cultural heritage and warrior traditions of the Cossack people."
+    },
+    {
+        "name":"Pollera---Panama and Colombia",
+        "zhname":"Pollera---巴拿马和哥伦比亚",
+        "description_1":"A vibrant and intricately embroidered dress, usually worn for special occasions.",
+        "description_2":"Adorned with multiple layers of ruffles and lace, creating a majestic and elegant look.",
+        "description_3":"Reflects the rich cultural heritage and traditional craftsmanship of Panama and Colombia.",
+        "description_total":"traditional costumes from Panama and Colombia, are exquisite embroidered dresses adorned with layers of ruffles and lace, showcasing the region's cultural heritage."
+    },
+    {
+        "name":"Ao Dai----Vietnam",
+        "zhname":"长衫----越南",
+        "description_1":"A long, flowing tunic worn over loose pants, usually in silk or satin.",
+        "description_2":"Features high, mandarin-style collars and slits on both sides of the tunic.",
+        "description_3":"Embroidery and vibrant colors are often incorporated, representing grace and elegance.",
+        "description_total":"traditional costumes from Vietnam, are long tunics worn over loose pants, featuring high collars, side slits, and intricate embroidery, symbolizing grace and elegance."
+    },
+    {
+        "name":"Barong Tagalog---Philippines",
+        "zhname":"菲律宾巴龙塔加洛---菲律宾",
+        "description_1":"A traditional embroidered long-sleeved shirt usually made of pineapple or silk fibers.",
+        "description_2":"Often worn during formal occasions and signifies elegance and national pride.",
+        "description_3":"Known for its intricate detail and transparent fabric, showcasing Filipino craftsmanship and artistry.",
+        "description_total":"a traditional costume from the Philippines, is a beautifully embroidered long-sleeved shirt made of pineapple or silk fibers, symbolizing elegance, national pride, and showcasing Filipino craftsmanship."
+    },
+    {
+        "name":"Sherwani---India and Pakistan",
+        "zhname":"詹瓦尼---印度和巴基斯坦",
+        "description_1":"A long coat-like garment worn by men for special occasions.",
+        "description_2":"Typically made from heavy fabrics with intricate embroidery and embellishments.",
+        "description_3":"Reflects the rich cultural heritage and royal influence of the Mughal era.",
+        "description_total":"traditional costumes from India and Pakistan, are long coat-like garments adorned with embroidery and reflect the royal influence of the Mughal era."
+    },
+    {
+        "name":"Kilt---Scotland",
+        "zhname":"苏格兰方格裙---苏格兰",
+        "description_1":"A knee-length skirt worn by men, often made of wool and featuring pleats.",
+        "description_2":"The design of the tartan pattern represents the wearer's Scottish clan.",
+        "description_3":"Traditionally worn for formal events and special occasions in Scottish culture.",
+        "description_total":"a traditional costume from Scotland, is a knee-length skirt made of wool with pleats and a tartan pattern that represents the wearer's clan. It is mainly worn for formal events and special occasions."
+    },
+    {
+        "name":"Basotho Blanket---Lesotho",
+        "zhname":"巴索托毯子---莱索托",
+        "description_1":"A thick and warm blanket worn as a traditional garment by the Basotho people.",
+        "description_2":"It is adorned with colorful and intricate geometric patterns, representing the Basotho culture and heritage.",
+        "description_3":"The Basotho Blanket holds significant cultural and social importance, often used to showcase wealth and status.",
+        "description_total":"a thick and warm garment adorned with colorful geometric patterns from Lesotho, symbolizing the rich cultural heritage of the Basotho people and used to display social status."
+    },
+    {
+        "name":"Jellabiya---Egypt and Sudan",
+        "zhname":"吉拉比亚---埃及和苏丹",
+        "description_1":"Loose-fitting, ankle-length garment worn by both men and women.",
+        "description_2":"Typically made of cotton or linen and comes in various colors and patterns.",
+        "description_3":"Represents the cultural heritage of Egypt and Sudan, often worn for special occasions.",
+        "description_total":"a traditional costume from Egypt and Sudan, is a loose-fitting garment made of cotton or linen, available in different colors and patterns, and is often worn for ceremonial events."
+    },
+    {
+        "name":"Toga---Ancient Rome",
+        "zhname":"古罗马袍---古罗马",
+        "description_1":"A loose-fitting garment draped over the shoulder and wrapped around the body.",
+        "description_2":"Made of wool or linen, Togas were worn by free-born Roman citizens.",
+        "description_3":"Symbolized Roman citizenship and was an essential part of social identity.",
+        "description_total":"a traditional costume from Ancient Rome, was a loose-fitting garment made of wool or linen. It symbolized Roman citizenship and held great importance in defining social status."
+    },
+    {
+        "name":"Inuit Parkas---Canada",
+        "zhname":"因纽特围裙---加拿大",
+        "description_1":"A traditional outerwear designed by the Inuit people of Canada.",
+        "description_2":"Typically made from animal skins or modern synthetic materials for warmth.",
+        "description_3":"Features a hood, oversized cut, and intricate embroidery, reflecting their rich cultural heritage.",
+        "description_total":"traditional costumes from Canada, are oversized outerwear made from animal skins or modern materials, featuring hoods, intricate embroidery, and a reflection of the Inuit cultural heritage."
+    },
+    {
+        "name":"Fustanella----Greece and Albania",
+        "zhname":"费斯坦奈拉----希腊和阿尔巴尼亚",
+        "description_1":"A skirt-like garment made of pleated white cotton or wool fabric.",
+        "description_2":"Typically worn by men for formal occasions and traditional dance performances.",
+        "description_3":"Symbolizes national pride and cultural heritage in both Greece and Albania.",
+        "description_total":"a traditional costume from Greece and Albania, is a pleated skirt worn by men to showcase national pride and cultural traditions during formal events and dance performances."
+    },
+    {
+        "name":"Moroccan Djellaba---Morocco",
+        "zhname":"摩洛哥长袍---摩洛哥",
+        "description_1":"A loose-fitting robe made from wool or cotton, worn by both men and women.",
+        "description_2":"Features a hood and long sleeves, with decorative embroideries or embellishments.",
+        "description_3":"Provides protection from harsh desert climates and represents Moroccan cultural heritage.",
+        "description_total":"a traditional costume from Morocco, is a loose-fitting robe made from wool or cotton. It is adorned with embroideries and offers protection in the harsh desert climates, reflecting the rich cultural heritage of Morocco."
+    },
+    {
+        "name":"Puletasi---Samoa",
+        "zhname":"帕雷塔西---萨摩亚",
+        "description_1":"A two-piece outfit consisting of a blouse and a wrap-around skirt.",
+        "description_2":"The blouse is often brightly colored and decorated with traditional Samoan patterns.",
+        "description_3":"The wrap-around skirt is worn by both men and women and can be tied in different styles.",
+        "description_total":"a traditional costume from Samoa, includes a colorful blouse and wrap-around skirt adorned with Samoan patterns, allowing for various tying styles."
+    },
+    {
+        "name":"Bakhu---Nepal",
+        "zhname":"巴库---尼泊尔",
+        "description_1":"A loose-fitting traditional garment worn by both men and women in Nepal.",
+        "description_2":"Usually made of cotton or silk, it features intricate embroidery and colorful patterns.",
+        "description_3":"Symbolizes the rich cultural heritage of Nepal and is typically worn on special occasions and festivals.",
+        "description_total":"a traditional costume from Nepal, is a loose-fitting garment adorned with colorful embroidery and patterns, representing the vibrant cultural traditions of the country."
+    },
+    {
+        "name":"Tuareg Tagelmust---Sahara",
+        "zhname":"图瓦雷格突拉格·塔杰姆斯特---撒哈拉",
+        "description_1":"A veil-like cloth worn by Tuareg men to cover their faces and heads.",
+        "description_2":"Made from a long strip of blue-dyed cotton fabric.",
+        "description_3":"Symbolizes protection from the harsh desert environment and serves as a cultural signifier.",
+        "description_total":"a traditional costume from Sahara, is a veil-like cloth made of blue-dyed fabric worn by Tuareg men to signify protection and cultural identity in the desert."
+    },
+    {
+        "name":"Sami Gákti---Sápmi region",
+        "zhname":"萨米族Gákti---萨普米地区",
+        "description_1":"A brightly colored, traditional Sami costume worn by both men and women.",
+        "description_2":"Features intricate embroidery and patterns that represent the wearer's family and region.",
+        "description_3":"Reflects the rich cultural heritage and connection to nature of the Sami people.",
+        "description_total":"a traditional costume from the Sápmi region, is a colorful attire adorned with embroidery and patterns symbolizing family lineage and connection to nature."
+    },
+    {
+        "name":"Abaya and Hijab---Many Muslim countries",
+        "zhname":"阿拉伯长袍和头巾---伊斯兰世界",
+        "description_1":"A loose-fitting black robe worn by Muslim women to cover their bodies.",
+        "description_2":"Often accompanied by a Hijab, a headscarf that covers the hair and neck.",
+        "description_3":"Symbolizes modesty, religious beliefs, and adherence to cultural traditions.",
+        "description_total":"Abaya and Hijab, traditional costumes from many Muslim countries, are worn by women to express modesty, religious devotion, and respect for cultural practices."
+    },
+    {
+        "name":"Zulu Beadwork---South Africa",
+        "zhname":"祖鲁珠饰---南非",
+        "description_1":"Intricate beadwork made with colorful beads typically worn as accessories.",
+        "description_2":"Reflects the rich cultural heritage and artistic skills of the Zulu people.",
+        "description_3":"Symbolizes social status, age, marital status, and personal achievements in Zulu society.",
+        "description_total":"a traditional costume from South Africa, showcases intricate beadwork that represents the cultural heritage, social status, and personal achievements of the Zulu people."
+    },
+    {
+        "name":"Tibetan Chuba---Tibet",
+        "zhname":"藏族袍---西藏",
+        "description_1":"A loose-fitting robe with wide sleeves and a high collar.",
+        "description_2":"Typically made from wool or silk, adorned with intricate patterns and vibrant colors.",
+        "description_3":"Reflects the rich Tibetan culture and is often worn during special occasions and festivals.",
+        "description_total":"a traditional costume from Tibet, is a loose-fitting robe with vibrant colors, intricate patterns, and is worn during special occasions to showcase the rich Tibetan culture."
+    },
+    {
+        "name":"Romanian Ia Blouse---Romania",
+        "zhname":"罗马尼亚IA衬衫---罗马尼亚",
+        "description_1":"A traditional blouse with intricate embroidery and vibrant colors.",
+        "description_2":"Worn by both men and women for special occasions and folk dances.",
+        "description_3":"Reflects Romania's rich cultural heritage and celebrates its craftsmanship and traditions.",
+        "description_total":"a traditional costume from Romania, is a vibrant and intricately embroidered blouse worn by both men and women for special occasions and folk dances, showcasing the country's rich cultural heritage and craftsmanship."
+    },
+    {
+        "name":"Peranakan Kebaya---Singapore and Malaysia",
+        "zhname":"娘惹婆羅洲衫---新加坡和马来西亚",
+        "description_1":"A traditional blouse worn by Peranakan women in Singapore and Malaysia.",
+        "description_2":"Made of sheer fabric with intricate embroidery and lace details.",
+        "description_3":"Often paired with a sarong or batik skirt for a complete traditional look.",
+        "description_total":" a traditional costume from Singapore and Malaysia, is a beautiful blouse adorned with embroidery and lace, typically paired with a sarong or batik skirt."
+    },
+    {
+        "name":"Austrian Dirndlbluse---Austria",
+        "zhname":"奥地利迪尔德布鲁斯---奥地利",
+        "description_1":"A white blouse with puffed sleeves worn as part of the Austrian dirndl dress.",
+        "description_2":"Often decorated with intricate lace, embroidery, or ruffles.",
+        "description_3":"Enhances the feminine charm and elegance of the traditional dirndl ensemble.",
+        "description_total":"a traditional costume from Austria, is a white blouse with puffed sleeves that adds a touch of femininity and elegance to the traditional dirndl dress, adorned with lace, embroidery, or ruffles."
+    },
+    {
+        "name":"Swazi Lihiya---Eswatini",
+        "zhname":"斯威士兰李希亚---斯威士兰",
+        "description_1":"A long, rectangular shawl that is draped over the shoulders.",
+        "description_2":"Often made from colorful fabric with intricate patterns and embroidery.",
+        "description_3":"Represents the cultural identity and status of the wearer in Swazi society.",
+        "description_total":"a traditional costume from Eswatini, is a vibrant and intricately patterned shawl that symbolizes the wearer's cultural identity and social standing."
+    },
+    {
+        "name":"Rwandan Mushanana---Rwanda",
+        "zhname":"卢旺达穆沙那那---卢旺达",
+        "description_1":"A colorful, ankle-length dress made from fabric with vibrant patterns.",
+        "description_2":"Typically worn by Rwandan women on special occasions and cultural events.",
+        "description_3":"Embodies the rich cultural heritage and pride of the Rwandan people.",
+        "description_total":"a traditional costume from Rwanda, is a vibrant ankle-length dress worn by women on special occasions, reflecting the cultural heritage and pride of the Rwandan people."
+    },
+    {
+        "name":"Tanzanian Kitenge---Tanzania",
+        "zhname":"坦桑尼亚凯滕格---坦桑尼亚",
+        "description_1":"A colorful and vibrant African fabric often worn as a wrap skirt or dress.",
+        "description_2":"Features bold and intricate patterns, symbolizing cultural heritage and identity.",
+        "description_3":"Represents the creativity and individuality of Tanzanian fashion.",
+        "description_total":"a traditional costume from Tanzania, is a colorful and vibrant fabric adorned with bold patterns that showcase the richness of cultural heritage and individuality."
+    },
+    {
+        "name":"Eritrean Zuria---Eritrea",
+        "zhname":"厄立特里亚祖里亚---厄立特里亚",
+        "description_1":"A long, loose-fitting dress worn by Eritrean women for special occasions.",
+        "description_2":"Typically made from white cotton or linen fabric with intricate embroidery.",
+        "description_3":"Reflects the rich cultural heritage and elegance of Eritrean traditions.",
+        "description_total":"a traditional costume from Eritrea, is a long, loose-fitting dress adorned with intricate embroidery, representing the country's cultural heritage and elegance."
+    },
+    {
+        "name":"Malawian Chitenje---Malawi",
+        "zhname":"马拉维的Chitenje---马拉维",
+        "description_1":"A cotton fabric often worn as a wraparound skirt or headscarf.",
+        "description_2":"Vibrant and colorful patterns showcasing Malawian culture and traditions.",
+        "description_3":"Symbolizes the social status, tribe, or occasion of the wearer.",
+        "description_total":"a traditional costume from Malawi, is a vibrant cotton fabric worn as a wraparound skirt or headscarf, showcasing the country's culture and traditions. It symbolizes various aspects of the wearer's identity."
+    },
+    {
+        "name":"Ghanaian Kente---Ghana",
+        "zhname":"加纳肯特---加纳",
+        "description_1":"A vibrant and colorful fabric made from interwoven strips of silk and cotton.",
+        "description_2":"Each color and pattern has a symbolic meaning, representing wisdom, wealth, or spirituality.",
+        "description_3":"Worn on special occasions such as weddings, festivals, and important ceremonies.",
+        "description_total":"a traditional costume from Ghana, is a vibrantly colored fabric woven with silk and cotton, symbolizing different virtues and worn for special events and ceremonies."
+    },
+    {
+        "name":"Zambian Chitenge---Zambia",
+        "zhname":"赞比亚查腾盖---赞比亚",
+        "description_1":"A colorful fabric often worn by women as a wrap-around skirt or a headscarf.",
+        "description_2":"It is made from cotton and features vibrant traditional African prints and patterns.",
+        "description_3":"Chitenge is not only a clothing item but also holds cultural and social significance in Zambia.",
+        "description_total":"a traditional costume from Zambia, is a colorful fabric with vibrant African prints, worn as a skirt or headscarf, symbolizing cultural significance."
+    },
+    {
+        "name":"Madagascar Lamba---Madagascar",
+        "zhname":"马达加斯加兰巴---马达加斯加",
+        "description_1":"A rectangular piece of fabric worn as a shawl or wrapped around the waist.",
+        "description_2":"Made from various materials including silk, cotton, or lamba raffia.",
+        "description_3":"Sometimes decorated with vibrant colors, patterns, or embroidery to reflect the wearer's social status or occasion.",
+        "description_total":"Traditional costumes from Madagascar, a versatile piece of fabric worn as a shawl or waist wrap, with variations in materials, decorations, and styles."
+    },
+    {
+        "name":"Ugandan Busuuti---Uganda",
+        "zhname":"乌干达布苏蒂---乌干达",
+        "description_1":"A loose, flowing gown with wide, long sleeves and a fitted bodice.",
+        "description_2":"Typically made from brightly colored fabric with intricate patterns and embellishments.",
+        "description_3":"Symbolizes elegance, grace, and cultural identity in Ugandan society.",
+        "description_total":"a traditional costume from Uganda, is a flowing gown adorned with vibrant colors, intricate patterns, and cultural significance in representing elegance and identity."
+    },
+    {
+        "name":"Mozambican Capulana---Mozambique",
+        "zhname":"莫桑比克卡普兰纳---莫桑比克",
+        "description_1":"A brightly colored rectangular cloth worn as a skirt or headwrap.",
+        "description_2":"Features various geometric patterns and vibrant motifs representing Mozambican culture.",
+        "description_3":"Symbolizes cultural identity, social status, and can be used for storytelling through its patterns.",
+        "description_total":"a traditional costume from Mozambique, is a vibrant rectangular cloth with geometric patterns and motifs that represents the country's culture and tells stories through its designs."
+    },
+    {
+        "name":"South African Xhosa Beadwork---South Africa",
+        "zhname":"南非科萨族串珠(南非)",
+        "description_1":"Intricate beadwork and colorful patterns are prominent in this traditional costume.",
+        "description_2":"Represents the rich cultural heritage of the Xhosa people in South Africa.",
+        "description_3":"Often worn during special occasions, ceremonies, and celebrations.",
+        "description_total":"a traditional costume from South Africa, showcases intricate beadwork, vibrant patterns, and symbolizes the cultural richness of the Xhosa people."
+    },
+    {
+        "name":"Maltese Għonnella---Malta",
+        "zhname":"Maltese Għonnella---马耳他",
+        "description_1":"A loose, flowing outer garment worn by Maltese women.",
+        "description_2":"Made from brightly colored fabric, usually in floral or geometric patterns.",
+        "description_3":"Often paired with a headscarf and worn during traditional occasions and celebrations.",
+        "description_total":"a traditional costume from Malta, is a loose, flowing garment adorned with vibrant floral or geometric patterns, commonly worn alongside a headscarf for festive gatherings."
+    },
+    {
+        "name":"Senegalese Boubou---Senegal",
+        "zhname":"塞内加尔布布---塞内加尔",
+        "description_1":"An oversized robe-like garment worn by both men and women.",
+        "description_2":"Typically made from colorful and patterned fabric, often embroidered or embellished.",
+        "description_3":"Represents cultural heritage and social status, commonly worn during special occasions.",
+        "description_total":"a traditional costume from Senegal, is an oversized robe made with colorful fabric, symbolizing cultural heritage and worn during significant events."
+    },
+    {
+        "name":"Burkina Faso Mossi Bobo Boubou",
+        "zhname":"莫西-博博布布（布基纳法索）",
+        "description_1":"A loose-fitting dress made from colorful and patterned fabrics.",
+        "description_2":"Typically worn by Mossi and Bobo ethnic groups in Burkina Faso.",
+        "description_3":"Embellished with intricate embroidery and often accompanied by matching headscarves.",
+        "description_total":"Traditional costumes from Burkina Faso,  a vibrant and loose-fitting dress adorned with colorful fabrics, detailed embroidery, and matching headscarves."
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "name":"Mount Fuji---Japan",
+        "zhname":"富士山---日本",
+        "description_1":"Iconic volcanic mountain and highest peak in Japan.",
+        "description_2":"Renowned for its symmetrical cone shape and picturesque views.",
+        "description_3":"A sacred site and popular destination for climbers and tourists.",
+        "description_total":" Located in Japan, an iconic volcanic mountain with a symmetrical cone shape, offering picturesque views. It is a sacred site and popular destination for climbers and tourists."
+    },
+    {
+        "name":"Forbidden City---China",
+        "zhname":"故宫---中国",
+        "description_1":"A massive palace complex with over 9,000 rooms.",
+        "description_2":"Built during the Ming Dynasty and served as the imperial residence for centuries.",
+        "description_3":"Showcases traditional Chinese architecture and houses precious cultural artifacts.",
+        "description_total":" Located in China, a massive palace complex built during the Ming Dynasty, showcasing traditional Chinese architecture and housing precious cultural artifacts."
+    },
+    {
+        "name":"Angkor Wat---Cambodia",
+        "zhname":"吴哥窟---柬埔寨",
+        "description_1":"Massive Hindu temple complex built in the 12th century.",
+        "description_2":"Dedicated to the Hindu god Vishnu and later became a Buddhist temple.",
+        "description_3":"Known for its stunning architecture and intricate carvings depicting Hindu mythology.",
+        "description_total":" Located in Cambodia, a massive temple complex built in the 12th century, dedicated to Hindu deity Vishnu, and renowned for its beautiful architecture and intricate carvings."
+    },
+    {
+        "name":"Grand Canyon---United States",
+        "zhname":"大峡谷---美国",
+        "description_1":"A massive, steep-sided gorge carved by the Colorado River.",
+        "description_2":"Famous for its breathtakingly beautiful and colorful rock formations.",
+        "description_3":"Provides a unique glimpse into the Earth's geological history.",
+        "description_total":" Located in the United States, a massive gorge carved by the Colorado River, renowned for its stunning rock formations and its exhibition of Earth's ancient geological past."
+    },
+    {
+        "name":"Times Square---USA",
+        "zhname":"时代广场---美国",
+        "description_1":"A world-famous commercial intersection in the heart of Manhattan, New York City.",
+        "description_2":"Known for its vibrant neon billboards, digital advertisements, and bustling atmosphere.",
+        "description_3":"A popular tourist destination and the symbolic center of the city that never sleeps.",
+        "description_total":" Located in the USA, a square is a vibrant commercial intersection in Manhattan, renowned for its neon billboards and energetic ambiance, making it a must-visit destination."
+    },
+    {
+        "name":"Tower of London---UK",
+        "zhname":"伦敦塔---英国",
+        "description_1":"Historic castle situated on the north bank of the River Thames.",
+        "description_2":"Built in the 11th century, it has served various purposes throughout history.",
+        "description_3":"Known for housing the Crown Jewels and being a former prison.",
+        "description_total":" Located in the UK, the tower is a historic castle on the River Thames, serving various purposes throughout history and renowned for housing the Crown Jewels and being a former prison."
+    },
+    {
+        "name":"St. Peter's Basilica---Vatican City",
+        "zhname":"圣彼得大教堂---梵蒂冈",
+        "description_1":"One of the largest and most renowned churches in the world.",
+        "description_2":"Located in Vatican City, the spiritual and administrative center of the Roman Catholic Church.",
+        "description_3":"Known for its magnificent Renaissance architecture and the grandeur of its interior.",
+        "description_total":" Located in Vatican City, one of the world's largest churches, known for its magnificent Renaissance architecture and grand interior."
+    },
+    {
+        "name":"Petra---Jordan",
+        "zhname":"佩特拉---约旦",
+        "description_1":"An ancient city carved into the red sandstone cliffs of southern Jordan.",
+        "description_2":"Nabatean trading hub flourishing from the 1st century BC to the 1st century AD.",
+        "description_3":"Famous for its intricate rock-cut architecture, including the iconic Treasury building.",
+        "description_total":" Located in Jordan, an ancient city carved into red sandstone cliffs, a flourishing Nabatean trading hub known for its intricate rock-cut architecture."
+    },
+    {
+        "name":"Niagara Falls---United States and Canada",
+        "zhname":"尼亚加拉瀑布---美国和加拿大",
+        "description_1":"A majestic and powerful waterfall located on the border of the United States and Canada.",
+        "description_2":"Consists of three waterfalls: the Horseshoe Falls, American Falls, and Bridal Veil Falls.",
+        "description_3":"Attracts millions of visitors each year, offering breathtaking views and thrilling experiences.",
+        "description_total":" Located on the border of the United States and Canada, the waterfalls is a majestic and powerful waterfall consisting of three falls, attracting millions of visitors with its breathtaking views and thrilling experiences."
+    },
+    {
+        "name":"Colosseum---Italy",
+        "zhname":"斗兽场---意大利",
+        "description_1":"An ancient amphitheater built during the Roman Empire in 70-80 AD.",
+        "description_2":"The largest amphitheater in the world, capable of seating 50,000 spectators.",
+        "description_3":"Iconic symbol of Roman engineering and grandeur, hosting gladiatorial contests and public spectacles.",
+        "description_total":" Located in Italy, an ancient amphitheater built during the Roman Empire, known for its grandeur and hosting gladiatorial contests and public spectacles."
+    },
+    {
+        "name":"The Louvre---France",
+        "zhname":"卢浮宫---法国",
+        "description_1":"Renowned art museum housing over 380,000 works, including the iconic Mona Lisa.",
+        "description_2":"Former royal palace converted into a cultural institution in 1793.",
+        "description_3":"World's largest art museum and a symbol of France's artistic heritage.",
+        "description_total":" Located in France, a renowned art museum housing over 380,000 works, including the iconic Mona Lisa. Converted from a former royal palace, it is the world's largest art museum and a symbol of France's artistic heritage."
+    },
+    {
+        "name":"Pyramids of Giza---Egypt",
+        "zhname":"吉萨金字塔---埃及",
+        "description_1":"Magnificent ancient structures built as tombs for the pharaohs.",
+        "description_2":"The largest pyramid, the Great Pyramid, is one of the Seven Wonders of the Ancient World.",
+        "description_3":"The Pyramids of Giza stand as a testament to the engineering skills of the ancient Egyptians.",
+        "description_total":" Located in Egypt, these magnificent ancient structures were built as tombs for the pharaohs and include the Great Pyramid, one of the Seven Wonders of the Ancient World, showcasing the remarkable engineering skills of the ancient Egyptians."
+    },
+    {
+        "name":"Great Barrier Reef---Australia",
+        "zhname":"大堡礁---澳大利亚",
+        "description_1":"World's largest coral reef system, stretching over 2,300 kilometers.",
+        "description_2":"Home to a diverse ecosystem, with thousands of species of fish, corals, and marine life.",
+        "description_3":"Designated as a UNESCO World Heritage Site, attracting millions of visitors annually.",
+        "description_total":" Located in Australia, the world's largest coral reef system, housing a diverse ecosystem and attracting millions of visitors each year."
+    },
+    {
+        "name":"Great Wall---China",
+        "zhname":"长城---中国",
+        "description_1":"An iconic fortification that stretches thousands of kilometers in Northern China.",
+        "description_2":"Constructed to protect China from invasions during ancient times.",
+        "description_3":"A testament to the engineering prowess and rich history of China.",
+        "description_total":" Located in China, an iconic fortification stretching thousands of kilometers, constructed to protect the nation and representing China's engineering prowess and rich history."
+    },
+    {
+        "name":"Taj Mahal---India",
+        "zhname":"泰姬陵---印度",
+        "description_1":"A white marble mausoleum built by Emperor Shah Jahan for his wife.",
+        "description_2":"Renowned for its intricate architectural design and detailed craftsmanship.",
+        "description_3":"Considered a symbol of love and one of the most stunning structures in the world.",
+        "description_total":" Located in India, a magnificent white marble mausoleum built by Emperor Shah Jahan, known for its intricate design and as a symbol of love."
+    },
+    {
+        "name":"Machu Picchu---Peru",
+        "zhname":"马丘比丘---秘鲁",
+        "description_1":"Incan citadel built in the 15th century on a mountain ridge.",
+        "description_2":"Abandoned and hidden until its rediscovery in 1911.",
+        "description_3":"Known for its breathtaking mountainous setting and impressive stone architecture.",
+        "description_total":" Located in Peru, an Incan citadel built on a mountain ridge in the 15th century, later abandoned and hidden until its rediscovery in 1911, known for its breathtaking mountainous setting and impressive stone architecture."
+    },
+    {
+        "name":"Stonehenge---United Kingdom",
+        "zhname":"巨石阵---英国",
+        "description_1":"Mysterious prehistoric monument made up of large standing stones.",
+        "description_2":"Believed to have been constructed around 3000 BC to 2000 BC.",
+        "description_3":"A UNESCO World Heritage Site and an iconic symbol of British history.",
+        "description_total":" Located in the United Kingdom, a mysterious prehistoric monument constructed around 3000 BC to 2000 BC. It is a UNESCO World Heritage Site and a prominent symbol of British history."
+    },
+    {
+        "name":"Sistine Chapel---Vatican City",
+        "zhname":"西斯廷教堂---梵蒂冈",
+        "description_1":"A renowned religious and artistic landmark with exquisite frescoes.",
+        "description_2":"Painted by famous artists like Michelangelo and Botticelli.",
+        "description_3":"Houses the iconic masterpiece \"The Creation of Adam\".",
+        "description_total":" Located in Vatican City, an iconic religious and artistic landmark featuring exquisite frescoes by renowned artists, including the masterpiece \"The Creation of Adam\"."
+    },
+    {
+        "name":"Sydney Opera House---Australia",
+        "zhname":"悉尼歌剧院---澳大利亚",
+        "description_1":"Iconic multi-venue performing arts center known for its unique architectural design.",
+        "description_2":"Designed by Danish architect Jørn Utzon and officially opened in 1973.",
+        "description_3":"Recognized as one of the most famous and distinctive buildings in the world.",
+        "description_total":" Located in Australia Sydney, an iconic multi-venue performing arts center known for its unique architectural design. Designed by Danish architect Jørn Utzon and opened in 1973, it is recognized as one of the most famous and distinctive buildings globally."
+    },
+    {
+        "name":"Buckingham Palace---United Kingdom",
+        "zhname":"白金汉宫---英国",
+        "description_1":"Official residence and administrative headquarters of the British monarch.",
+        "description_2":"Built in the early 18th century and acquired by the British royal family in 1761.",
+        "description_3":"Iconic site, known for its stunning architecture and the Changing of the Guard ceremony.",
+        "description_total":" Located in the United Kingdom, it is the official residence and administrative headquarters of the British monarch. Built in the early 18th century, it became an iconic site known for its stunning architecture and the renowned Changing of the Guard ceremony."
+    },
+    {
+        "name":"Golden Gate Bridge---USA",
+        "zhname":"金门大桥---美国",
+        "description_1":"Iconic suspension bridge connecting San Francisco to Marin County.",
+        "description_2":"Constructed in 1937, it is considered an engineering marvel of its time.",
+        "description_3":"Its distinctive orange-red color and scenic location attract millions of visitors annually.",
+        "description_total":" Located in the USA, an iconic suspension bridge connecting San Francisco to Marin County, constructed in 1937 and admired for its engineering brilliance, vibrant orange-red color, and breathtaking setting."
+    },
+    {
+        "name":"Statue of Liberty---United States",
+        "zhname":"自由女神像---美国",
+        "description_1":"Iconic neoclassical sculpture on Liberty Island in New York Harbor.",
+        "description_2":"Gift from France to commemorate the alliance during the American Revolution.",
+        "description_3":"Symbol of freedom and opportunity, welcoming immigrants to the United States.",
+        "description_total":" Located in the United States, an iconic neoclassical sculpture on Liberty Island in New York Harbor, representing freedom, opportunity, and a warm welcome to immigrants."
+    },
+    {
+        "name":"Yellowstone National Park---USA",
+        "zhname":"黄石国家公园---美国",
+        "description_1":"A vast national park known for its geothermal features, including the famous Old Faithful geyser.",
+        "description_2":"Home to diverse wildlife, such as grizzly bears, wolves, and herds of bison and elk.",
+        "description_3":"Offers stunning landscapes, including canyons, hot springs, and the Yellowstone Lake.",
+        "description_total":" Located in the USA, the park is a vast expanse of geothermal wonders, diverse wildlife, and breathtaking landscapes."
+    },
+    {
+        "name":"The British Museum---United Kingdom",
+        "zhname":"大英博物馆---英国",
+        "description_1":"Houses vast collections of art and artifacts from around the world.",
+        "description_2":"Founded in 1753, it is one of the oldest and largest museums globally.",
+        "description_3":"Showcases the rich cultural heritage of various civilizations throughout history.",
+        "description_total":" Located in the United Kingdom, one of the oldest and largest museums globally. It houses vast collections of art and artifacts, showcasing the rich cultural heritage of various civilizations."
+    },
+    {
+        "name":"Eiffel Tower---France",
+        "zhname":"埃菲尔铁塔---法国",
+        "description_1":"Iconic iron lattice tower standing at a height of 330 meters.",
+        "description_2":"Constructed between 1887 and 1889 for the 1889 World's Fair.",
+        "description_3":"Symbolizes the beauty of Paris and French engineering prowess.",
+        "description_total":" Located in France, an iconic iron lattice tower standing at a height of 330 meters, constructed for the 1889 World's Fair, and symbolizing the beauty of Paris and French engineering prowess."
+    },
+    {
+        "name":"Leaning Tower of Pisa--- Italy",
+        "zhname":"比萨斜塔---意大利",
+        "description_1":"Famous for its distinctive tilt caused by an unstable foundation.",
+        "description_2":"Constructed over a period of almost 200 years.",
+        "description_3":"An iconic symbol of Italy's architectural and engineering prowess.",
+        "description_total":" Located in Italy, the tower is renowned for its distinctive tilt, constructed over centuries, representing Italy's architectural and engineering excellence."
+    },
+    {
+        "name":"Acropolis---Greece",
+        "zhname":"雅典卫城---希腊",
+        "description_1":"An ancient citadel located on a rocky outcrop above the city of Athens.",
+        "description_2":"Home to the iconic Parthenon temple, dedicated to goddess Athena.",
+        "description_3":"A UNESCO World Heritage site that showcases the grandeur of ancient Greek architecture.",
+        "description_total":" Located in Greece, an ancient citadel with the iconic Parthenon temple, showcasing the grandeur of ancient Greek architecture."
+    },
+    {
+        "name":"Pantheon---Rome",
+        "zhname":"万神殿---罗马",
+        "description_1":"A well-preserved ancient Roman temple built in the 2nd century AD.",
+        "description_2":"Known for its remarkable dome structure and impressive architecture.",
+        "description_3":"Originally dedicated to all the gods of ancient Rome.",
+        "description_total":" Located in Rome, a well-preserved ancient Roman temple known for its remarkable dome structure and impressive architecture, originally dedicated to all the gods of ancient Rome."
+    },
+    {
+        "name":"The Grand Palace (Bangkok)",
+        "zhname":"大皇宫（曼谷）",
+        "description_1":"Magnificent and opulent palace complex built in the 18th century.",
+        "description_2":"It has served as the official residence of Kings of Siam and Thailand.",
+        "description_3":"Houses the famous Emerald Buddha and numerous stunning royal buildings.",
+        "description_total":" Located in Bangkok, the palace is a magnificent and opulent palace complex built in the 18th century. It has been the official residence of the Kings of Siam and Thailand and is home to the famous Emerald Buddha and a collection of stunning royal buildings."
+    },
+    {
+        "name":"Hagia Sophia---Turkey",
+        "zhname":"圣索非亚大教堂---土耳其",
+        "description_1":"A historic religious site in Istanbul, Turkey, with a rich architectural and cultural significance.",
+        "description_2":"Originally built as a Greek Orthodox basilica, later converted into an imperial mosque.",
+        "description_3":"A symbol of the Byzantine and Ottoman empires, showcasing the blend of Eastern and Western influences.",
+        "description_total":" Located in Turkey, a historic religious site with architectural and cultural significance, originally a Greek Orthodox basilica, later transformed into an imperial mosque, symbolizing the blend of Eastern and Western influences in the Byzantine and Ottoman empires."
+    },
+    {
+        "name":"Borobudur Temple---Indonesia",
+        "zhname":"婆罗浮屠---印度尼西亚",
+        "description_1":"A remarkable Buddhist temple, recognized as the largest in the world.",
+        "description_2":"Constructed in the 9th century, it stands as an architectural masterpiece in Java.",
+        "description_3":"Embodies the harmony between religion, nature, and human mastery.",
+        "description_total":" Located in Indonesia, the temple is a remarkable Buddhist masterpiece, standing as the world's largest temple, showcasing the harmony of religion, nature, and human craftsmanship."
+    },
+    {
+        "name":"Auschwitz Concentration Camp---Poland",
+        "zhname":"奥斯维辛集中营---波兰",
+        "description_1":"Notorious Nazi concentration and extermination camp during World War II.",
+        "description_2":"Over 1.1 million people, mostly Jews, were killed within its confines.",
+        "description_3":"Serves as a haunting reminder of the Holocaust and the atrocities committed.",
+        "description_total":" Located in Poland, the notorious camp was a Nazi site where over 1.1 million people, mainly Jews, perished, serving as a haunting reminder of the Holocaust."
+    },
+    {
+        "name":"Red Square---Russia",
+        "zhname":"红场---俄罗斯",
+        "description_1":"The central square of Moscow with iconic landmarks like St. Basil's Cathedral.",
+        "description_2":"Hosts significant events like military parades and public gatherings.",
+        "description_3":"A symbol of Russian history, culture, and political power.",
+        "description_total":" Located in Russia, the square is the central square of Moscow, known for iconic landmarks and as a symbol of Russian history, culture, and political power."
+    },
+    {
+        "name":"Hollywood Sign---United States",
+        "zhname":"好莱坞标志---美国",
+        "description_1":"Iconic symbol of the American entertainment industry.",
+        "description_2":"Originally created in 1923, the sign stands at 45 feet tall.",
+        "description_3":"Offers breathtaking views of the city and is a popular tourist attraction.",
+        "description_total":" Located in the United States, an iconic symbol of the American entertainment industry. Originally created in 1923, the sign stands at 45 feet tall, offering breathtaking views of the city and attracting numerous tourists."
+    },
+    {
+        "name":"Notre-Dame Cathedral---France",
+        "zhname":"巴黎圣母院---法国",
+        "description_1":"A magnificent gothic cathedral renowned for its stunning architecture.",
+        "description_2":"Constructed over 200 years, from 1163 to 1345.",
+        "description_3":"An iconic symbol of French history, art, and religious significance.",
+        "description_total":" Located in France, a magnificent gothic cathedral constructed over 200 years, representing French history, art, and religious significance."
+    },
+    {
+        "name":"Versailles Palace---France",
+        "zhname":"凡尔赛宫---法国",
+        "description_1":"A grand and opulent palace located in Versailles, near Paris.",
+        "description_2":"Built during the 17th century, it served as the residence of French kings.",
+        "description_3":"Known for its expansive gardens, ornate interiors, and historical significance.",
+        "description_total":" Located in France, the palace is a grand and opulent palace near Paris, built during the 17th century. It served as the residence of French kings and is renowned for its expansive gardens, ornate interiors, and historical significance."
+    },
+    {
+        "name":"The White House---United States",
+        "zhname":"白宫---美国",
+        "description_1":"Historic residence and workplace of the President of the United States.",
+        "description_2":"Symbolizes American democracy and the executive branch of government.",
+        "description_3":"Has been the official residence for every U.S. president since John Adams.",
+        "description_total":" Located in the United States, a historic residence and workplace for the President, symbolizing American democracy and serving as the official residence for every U.S. president since John Adams."
+    },
+    {
+        "name":"Pompeii---Italy",
+        "zhname":"庞贝——意大利",
+        "description_1":"A Roman city buried by the eruption of Mount Vesuvius in 79 AD.",
+        "description_2":"Preserves well-preserved ancient ruins and offers insight into Roman daily life.",
+        "description_3":"Considered an archaeological marvel and a UNESCO World Heritage Site.",
+        "description_total":" Located in Italy, an ancient Roman city buried by the eruption of Mount Vesuvius in 79 AD, well-preserved ruins providing insights into Roman daily life and deemed an archaeological marvel."
+    },
+    {
+        "name":"The Parthenon---Greece",
+        "zhname":"帕台农神庙---希腊",
+        "description_1":"A temple dedicated to the goddess Athena, built in the 5th century BC.",
+        "description_2":"A symbol of ancient Greek civilization and architectural excellence.",
+        "description_3":"Known for its impressive columns and intricate design, it stands as a testament to Greece's cultural legacy.",
+        "description_total":" Located in Greece, a 5th-century BC temple dedicated to Athena, symbolizing Greek civilization and architectural excellence with its impressive columns and intricate design."
+    },
+    {
+        "name":"The Blue Mosque---Turkey",
+        "zhname":"蓝色清真寺---土耳其",
+        "description_1":"A stunning mosque with intricate blue tilework and six minarets.",
+        "description_2":"Built in the early 17th century during the Ottoman empire.",
+        "description_3":"Known for its impressive size and beautiful architecture, attracting visitors from all over the world.",
+        "description_total":" Located in Turkey, a breathtaking religious site adorned with intricate blue tilework. Built during the Ottoman empire, it is renowned for its size and beauty, attracting tourists worldwide."
+    },
+    {
+        "name":"Berlin Wall Remnants---Germany",
+        "zhname":"柏林墙遗址---德国",
+        "description_1":"A symbol of division and reunification during the Cold War era.",
+        "description_2":"Built by the German Democratic Republic to separate East and West Berlin.",
+        "description_3":"Today, the remnants serve as a memorial and reminder of Germany's divided past.",
+        "description_total":" Located in Germany, the wall symbolize the division and reunification during the Cold War era, built by the German Democratic Republic to separate East and West Berlin, and now stand as a memorial of Germany's divided past."
+    },
+    {
+        "name":"Big Ben---United Kingdom",
+        "zhname":"大本钟---英国",
+        "description_1":"Iconic clock tower located in the heart of London.",
+        "description_2":"Renowned for its accuracy and distinctive chimes.",
+        "description_3":"A symbol of British heritage and cultural prominence.",
+        "description_total":" Located in the United Kingdom, an iconic clock tower in London known for its accuracy, distinctive chimes, and representation of British heritage."
+    },
+    {
+        "name":"Santorini Caldera---Greece",
+        "zhname":"圣托里尼火山口---希腊",
+        "description_1":"A volcanic crater formed by a massive eruption thousands of years ago.",
+        "description_2":"Known for its stunning panoramic views of the Aegean Sea.",
+        "description_3":"Home to picturesque white-washed houses and blue-domed churches.",
+        "description_total":" Located in Greece, a volcanic crater with breathtaking views of the Aegean Sea, surrounded by charming white-washed houses and blue-domed churches."
+    },
+    {
+        "name":"Tokyo Tower---Japan",
+        "zhname":"东京塔---日本",
+        "description_1":"A famous communications and observation tower in the heart of Tokyo.",
+        "description_2":"Inspired by the iconic Eiffel Tower, standing at a height of 333 meters.",
+        "description_3":"Offers breathtaking panoramic views of Tokyo's skyline and beyond.",
+        "description_total":" Located in Japan, the tower is a famous communications and observation tower inspired by the Eiffel Tower, offering breathtaking views of Tokyo's skyline and beyond."
+    },
+    {
+        "name":"Potala Palace---China",
+        "zhname":"布达拉宫---中国",
+        "description_1":"Majestic palace located in the heart of Lhasa, Tibet.",
+        "description_2":"Former winter residence of the Dalai Lamas.",
+        "description_3":"Renowned for its stunning architectural design and spiritual significance.",
+        "description_total":" Located in China, the majestic palace is a former winter residence of the Dalai Lamas, renowned for its stunning architectural design and spiritual significance."
+    },
+    {
+        "name":"Arc de Triomphe---France",
+        "zhname":"凯旋门---法国",
+        "description_1":"Iconic triumphal arch located in the heart of Paris.",
+        "description_2":"Built to honor those who fought and died for France in the French Revolutionary and Napoleonic Wars.",
+        "description_3":"Offers breathtaking views of the Champs-Élysées and serves as a symbol of national pride.",
+        "description_total":" Located in France, this iconic triumphal arch in Paris honors soldiers and offers breathtaking views, representing national pride."
+    },
+    {
+        "name":"Central Park---United States",
+        "zhname":"中央公园---美国",
+        "description_1":"Sprawling urban oasis covering 843 acres in the heart of Manhattan.",
+        "description_2":"Designed by Frederick Law Olmsted and Calvert Vaux in the mid-19th century.",
+        "description_3":"Offers various recreational activities, iconic landmarks, and peaceful natural landscapes.",
+        "description_total":" Located in the United States, the park is a sprawling urban oasis, designed in the mid-19th century by Frederick Law Olmsted and Calvert Vaux, offering a wide array of recreational activities, iconic landmarks, and peaceful natural landscapes."
+    },
+    {
+        "name":"Terracotta Army---China",
+        "zhname":"秦始皇兵马俑---中国",
+        "description_1":"Life-sized clay statues of soldiers, horses, and chariots buried with Emperor Qin Shi Huang.",
+        "description_2":"Discovered by a local farmer in 1974, it is one of the world's greatest archaeological sites.",
+        "description_3":"Represents the emperor's desire for an afterlife army to protect him in eternity.",
+        "description_total":" Located in China, consists of life-sized clay statues buried with Emperor Qin Shi Huang, showcasing his desire for an eternal afterlife protection."
+    },
+    {
+        "name":"St. Mark's Basilica---Italy",
+        "zhname":"圣马可大教堂---意大利",
+        "description_1":"An iconic cathedral in Venice known for its Byzantine and Gothic architecture.",
+        "description_2":"Features stunning mosaics, intricate marble flooring, and golden Byzantine domes.",
+        "description_3":"Considered one of the finest examples of Italo-Byzantine architecture in the world.",
+        "description_total":" Located in Italy, an iconic cathedral in Venice, showcasing Byzantine and Gothic architecture, breathtaking mosaics, and exquisite marble flooring, representing a prime example of Italo-Byzantine architectural excellence."
+    },
+    {
+        "name":"Sahara Desert---Africa",
+        "zhname":"撒哈拉沙漠---非洲",
+        "description_1":"Vast desert covering over 3.6 million square miles.",
+        "description_2":"Known for its extreme climate, with scorching temperatures and limited rainfall.",
+        "description_3":"Home to diverse wildlife and unique geological formations.",
+        "description_total":" Located in Africa, the desert is a vast expanse of over 3.6 million square miles, known for its extreme climate and diverse wildlife."
+    },
+    {
+        "name":"Neuschwanstein Castle---Germany",
+        "zhname":"新天鹅堡---德国",
+        "description_1":"A stunning 19th-century castle nestled in the Bavarian Alps.",
+        "description_2":"Inspired by fairy tales, it was built as a private retreat for King Ludwig II.",
+        "description_3":"Known for its picturesque beauty, it attracts millions of visitors every year.",
+        "description_total":" Located in Germany, this stunning 19th-century castle nestled in the Bavarian Alps was inspired by fairy tales. It was built as a private retreat for King Ludwig II and is known for its picturesque beauty, attracting millions of visitors annually."
+    },
+    {
+        "name":"The Sphinx---Egypt",
+        "zhname":"狮身人面像---埃及",
+        "description_1":"Enormous limestone statue of a mythical creature with a human head and lion's body.",
+        "description_2":"Located near the Great Pyramids of Giza, believed to have been built during the Old Kingdom.",
+        "description_3":"Considered an iconic symbol of ancient Egyptian civilization and a testament to their architectural prowess.",
+        "description_total":" Located in Egypt, an enormous limestone statue near the Great Pyramids of Giza. Believed to have been built during the Old Kingdom, it represents the architectural prowess of ancient Egypt."
+    },
+    {
+        "name":"Rialto Bridge---Italy",
+        "zhname":"丽都大桥---意大利",
+        "description_1":"An iconic stone bridge spanning the Grand Canal in Venice.",
+        "description_2":"Built in the late 16th century, it is the oldest bridge across the canal.",
+        "description_3":"Known for its unique design and bustling market, it is a symbol of Venice.",
+        "description_total":" Located in Italy, an iconic stone bridge spanning the Grand Canal in Venice, the Rialto Bridge is the oldest bridge across the canal, known for its unique design and bustling market, symbolizing the charm of Venice."
+    },
+    {
+        "name":"Piazza San Marco---Italy",
+        "zhname":"圣马可广场---意大利",
+        "description_1":"A large public square in Venice, known for its stunning architecture.",
+        "description_2":"Features the iconic St. Mark's Basilica and the Campanile bell tower.",
+        "description_3":"Surrounded by historical buildings, it is the heart of Venetian culture and tourism.",
+        "description_total":" Located in Italy, a large public square in Venice, renowned for its stunning architecture, including the iconic St. Mark's Basilica and Campanile bell tower, and is considered the heart of Venetian culture and tourism."
+    }
+]

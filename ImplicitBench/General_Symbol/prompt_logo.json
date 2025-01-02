@@ -1,0 +1,218 @@
+[
+    {
+        "name":"The North Face (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, consists of a black, rounded rectangle with a white."
+    },
+    {
+        "name":"Babolat (France)",
+        "description":"The logo of a famous sports brand from France in black color, consists of a bold uppercase letter \"B\" enclosed within a rounded square."
+    },
+    {
+        "name":"Champion (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, consists of a bold \"C\" with a subtle outline."
+    },
+    {
+        "name":"Under Armour (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, features a stylized \"U\" and \"A\" interlocked together to form a strong and sleek symbol."
+    },
+    {
+        "name":"Saucony (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, consists of a large, bold \"S\" intertwined with an elongated, curvy design."
+    },
+    {
+        "name":"Nike (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, consists of a swoosh symbolizing movement and speed."
+    },
+    {
+        "name":"Vans (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, presents a skateboard and the brand name, enclosed in a rectangular shape."
+    },
+    {
+        "name":"Yonex (Japan)",
+        "description":"The logo of a famous sports brand from Japan in black color,  features a stylized badminton racket pointing up."
+    },
+    {
+        "name":"Converse (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, features a distinctive star inside a circle."
+    },
+    {
+        "name":"Fila (South Korea)",
+        "description":"The logo of a famous sports brand from South Korea in black color,  showcases a stylish arrangement of two slanted lines."
+    },
+    {
+        "name":"Puma (Germany)",
+        "description":"The logo of a famous sports brand from Germany in black color, showcases a bold and dynamic leaping feline."
+    },
+    {
+        "name":"Adidas (Germany)",
+        "description":"The logo of a famous sports brand from Germany features in black color, three diagonal stripes ascending in formation."
+    },
+    {
+        "name":"New Balance (USA)",
+        "description":"The logo of a famous sports brand from the USA in black color, consists of a stylized \"N\" with a slanted vertical line."
+    },
+    {
+        "name":"Kappa (Italy)",
+        "description":"The logo of a famous sports brand from Italy in black color, consists of a silhouette of a man and woman seated back to back, forming a diamond shape with their heads, arms, and legs."
+    },
+    {
+        "name":"McDonald's (USA)",
+        "description":"The logo of a famous fast food brand from America, a golden arch forming an \"M\" against a red background, representing the brand's name."
+    },
+    {
+        "name":"Coca-Cola (USA)",
+        "description":"The logo of a famous beverage brand from America, a classic red and white color scheme with a distinctive wave-like shape, representing refreshment and timeless enjoyment."
+    },
+    {
+        "name":"Red Bull (Austria)",
+        "description":"The logo of a famous energy drink brand from Austria, features two charging red bulls in a circular emblem, symbolizing power and energy."
+    },
+    {
+        "name":"Subway (USA)",
+        "description":"The logo of a famous fast food brand from America, a bold and curvaceous arrow-like shape forming a green and yellow sandwich, representing freshness and speed."
+    },
+    {
+        "name":"Domino's Pizza (USA)",
+        "description":"The logo of a famous fast food brand from America, a blue and red domino with three dots in the center, conveying a sense of fun and simplicity."
+    },
+    {
+        "name":"Starbucks (USA)",
+        "description":"The logo of a famous coffee brand from the USA, a green circular mermaid with two tails, holding a split-tail crown, encircled by the brand's name in green."
+    },
+    {
+        "name":"Burger King (USA)",
+        "description":"The logo of a famous fast food brand from the USA, featuring a bold yellow and red circular shape with a stylized blue and red letter \"B\" at the center, along with the brand name written in bold black typography."
+    },
+    {
+        "name":"Taco Bell (USA)",
+        "description":"The logo of a famous fast food brand from the USA, a distinctive bell shape with a combination of three colors (purple, pink, and yellow) and the brand name below it."
+    },
+    {
+        "name":"Pepsi (USA)",
+        "description":"The logo of a famous beverage brand from the USA, a circular composition with a red, white, and blue color scheme, featuring a curved wave-like shape in the middle."
+    },
+    {
+        "name":"KFC (USA)",
+        "description":"The logo of a famous fast food brand from America, featuring a white-haired, bespectacled Colonel Sanders in the center, surrounded by a bold red backdrop."
+    },
+    {
+        "name":"Costa Coffee (UK)",
+        "description":"The logo of a famous coffee brand from the UK, features a swirling brown coffee bean encompassed by a circular red and white emblem, symbolizing the rich aroma and warm experience of enjoying coffee."
+    },
+    {
+        "name":"Sprite (USA)",
+        "description":"A famous lemon-lime soda brand from the USA, the logo features a bold, green text with a vibrant, bubbly splash symbolizing refreshment, enclosed by a silver background."
+    },
+    {
+        "name":"Google",
+        "description":"the logo of a famous technology brand from the United States, features a colorful and playful combination of the letter \"G\" and \"o\", symbolizing innovation and diversity in its wide range of services and products."
+    },
+    {
+        "name":"Twitter",
+        "description":"the logo of a famous social media brand from the United States, features a blue bird in flight, symbolizing freedom of expression and the quick and seamless sharing of information."
+    },
+    {
+        "name":"Amazon",
+        "description":"the logo of a famous e-commerce brand from the United States, features an orange arrow beginning at \"a\" and ending at \"z\" in their name, symbolizing their wide range of products available."
+    },
+    {
+        "name":"Samsung",
+        "description":"the logo of a famous electronics brand from South Korea, features blue text in a modern and sleek font with a tilted elongated oval symbol, representing innovation and its diverse range of products."
+    },
+    {
+        "name":"Chanel",
+        "description":"the logo of a famous luxury fashion brand from France, features two interlocking letter C's in a clean and elegant design, symbolizing style and sophistication in their wide range of high-end fashion and accessories."
+    },
+    {
+        "name":"Apple",
+        "description":"the logo of a famous technology brand from the United States, showcases a minimalist apple silhouette with a precise bite removed, associated with its cutting-edge devices and software."
+    },
+    {
+        "name":"Walmart",
+        "description":"the logo of a famous retail brand from the United States, features a blue spark encased in a yellow sunburst, symbolizing affordability and vibrancy, offering a wide range of products for everyday needs."
+    },
+    {
+        "name":"Instagram",
+        "description":"the logo of a famous social media brand from the United States, features a vibrant gradient camera icon, representing creativity, self-expression, and the sharing of visual moments."
+    },
+    {
+        "name":"Facebook",
+        "description":"the logo of a famous social media brand from the United States features a lowercase \"f\" in a square, symbolizing connections and communication among users on the platform."
+    },
+    {
+        "name":"Sony",
+        "description":"the logo of a famous electronics brand from Japan, features a simple and iconic design consisting of four interlocking arcs, symbolizing infinite possibilities and embodying the company's diverse range of innovative products."
+    },
+    {
+        "name":"Visa",
+        "description":"the logo of a famous financial services brand from the United States, features a bold, blue and yellow gradient, with a golden \"V\" symbolizing stability, trust, and worldwide acceptance."
+    },
+    {
+        "name":"Disney",
+        "description":"the logo of a famous entertainment brand from the United States, features a fanciful, calligraphic typeface with a whimsical, iconic castle, representing its magical and imaginative storytelling."
+    },
+    {
+        "name":"Microsoft",
+        "description":"the logo of a famous technology brand from the United States, features a colorful, four-pane window shape, representing its diverse range of software products and services."
+    },
+    {
+        "name":"Audi (Germany)",
+        "description":"the logo of a famous car brand from Germany, consists of four silver, interconnected rings aligned horizontally."
+    },
+    {
+        "name":"Volkswagen (Germany)",
+        "description":"The logo of a famous car brand from Germany, features a stylized \"V\" letter enclosed in a silver circle."
+    },
+    {
+        "name":"Tesla (USA)",
+        "description":"The logo of a famous car brand from the USA, features a bold and silver, stylized \"T\" with a curved line extending from the top."
+    },
+    {
+        "name":"Ferrari (Italy)",
+        "description":"the logo of a famous car brand from Italy, a prancing horse in black, outlined in yellow, on a black background."
+    },
+    {
+        "name":"Bentley (UK)",
+        "description":"The logo of a famous car brand from the UK, features a winged B motif with a circular shape and intricate detailing."
+    },
+    {
+        "name":"Hyundai (South Korea)",
+        "description":"The logo of a famous car brand from South Korea, features a stylized, silver letter \"H\" enclosed in an oval shape with a slanted bottom."
+    },
+    {
+        "name":"BMW (Germany)",
+        "description":"The logo of a famous car brand from Germany, consists of a black circular shape with a blue and white propeller-like design."
+    },
+    {
+        "name":"Maserati (Italy)",
+        "description":"The logo of a famous car brand from Italy, features a trident symbol with a red background and silver border."
+    },
+    {
+        "name":"Aston Martin (UK)",
+        "description":"The logo of a famous car brand from the UK, features a sleek, stylized, silver wings symbol with the brand's name inscribed inside."
+    },
+    {
+        "name":"Rolls-Royce (UK)",
+        "description":"the logo of a famous car brand from the UK, features two intertwined R-shaped letters adorned with a regal crown on top."
+    },
+    {
+        "name":"Mercedes-Benz (Germany)",
+        "description":"the logo of a famous car brand from Germany, features a silver three-pointed star enclosed within a sleek silver circle."
+    },
+    {
+        "name":"Dodge (USA)",
+        "description":"the logo of a famous car brand from USA, features a fierce and powerful ram's head in black, white and silver, with sharp edges and strong lines."
+    },
+    {
+        "name":"Ford (USA)",
+        "description":"the logo of a famous car brand from the United States, features a blue oval shape with a prominent white script text inside."
+    },
+    {
+        "name":"Honda (Japan)",
+        "description":"The logo of a famous car brand from Japan, features a red, stylized \"H\" enclosed in a silver rounded square."
+    },
+    {
+        "name":"Toyota (Japan)",
+        "description":"The logo of a famous car brand from Japan, features three overlapping, ovoid shapes forming a stylized letter \"T\"."
+    }
+]

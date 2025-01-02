@@ -1,0 +1,158 @@
+[
+    {
+        "name":"跷脚楼---东南亚",
+        "description_total":"Located along the riverbanks and coastal areas of Southeast Asia, these elevated wooden structures showcase the region's harmonious coexistence with nature and resilience against flooding."
+    },
+    {
+        "name":"四合院---中国",
+        "description_total":"Located in traditional neighborhoods across China, these enclosed courtyard houses preserve the essence of Chinese culture, promoting family unity and harmonious living through their architectural design."
+    },
+    {
+        "name":"金字塔---埃及",
+        "description_total":"Located in the desert near Cairo, these towering structures, constructed with precise engineering and enigmatic symbolism, serve as a testament to the ancient Egyptian civilization's mastery of monumental architecture."
+    },
+    {
+        "name":"旅馆---日本",
+        "description_total":"Located throughout Japan, these traditional inns offer a serene retreat, with their minimalist design, tatami-matted floors, and hot spring baths, providing a glimpse into the country's rich cultural heritage."
+    },
+    {
+        "name":"韩屋---韩国",
+        "description_total":"Located throughout South Korea, Hanok is a traditional Korean house known for its curved roofs, wooden beams, and harmony with nature, reflecting the country's rich cultural heritage."
+    },
+    {
+        "name":"城堡---欧洲",
+        "description_total":"Located throughout Europe, these majestic fortresses with their towering walls, grandiose interiors, and rich histories, showcase the power and grandeur of medieval European nobility."
+    },
+    {
+        "name":"维多利亚式住宅---英格兰",
+        "description_total":"Located throughout England, these elegant and ornate houses, with their distinctive features such as bay windows and intricate detailing, exemplify the grandeur and sophistication of the Victorian era."
+    },
+    {
+        "name":"包豪斯---德国",
+        "description_total":"Located in Germany, Bauhaus revolutionized the concept of modern design, merging art and functionality to create simple yet elegant structures that emphasized minimalism and beauty."
+    },
+    {
+        "name":"马赛人圈舍——马赛（东非）",
+        "description_total":"Located in the vast plains of East Africa, these traditional Maasai enclosures, crafted with natural materials and arranged in circular patterns, represent the communal and nomadic lifestyle of the Maasai people."
+    },
+    {
+        "name":"立柱教堂---挪威",
+        "description_total":"Located throughout the stunning Norwegian landscape, these wooden churches, built with intricate stave construction techniques, showcase Norway's rich cultural heritage and architectural craftsmanship."
+    },
+    {
+        "name":"农牧小屋---南美洲",
+        "description_total":"Located in the rural regions of South America, these rustic and simple dwellings reflect the agricultural and pastoral lifestyle of the locals, perfectly blending with the surrounding natural beauty."
+    },
+    {
+        "name":"希腊神庙（如巴特农神庙）---希腊",
+        "description_total":"Located amidst the breathtaking Greek landscapes, these ancient temples, known for their exquisite Doric architecture and historical significance, reflect the grandeur and spiritual devotion of Ancient Greece."
+    },
+    {
+        "name":"哈辛达斯---墨西哥",
+        "description_total":"Located in the enchanting landscapes of Mexico, these grand colonial estates, featuring stunning courtyards and hacienda-style architecture, embody the rich history and charm of the country."
+    },
+    {
+        "name":"圆屋顶茅屋---南非",
+        "description_total":"Located in the picturesque landscapes of Southern Africa, these iconic round thatched-roof huts showcase the cultural heritage and traditional architectural style of the region."
+    },
+    {
+        "name":"宝塔---东亚",
+        "description_total":"Located across East Asia, these multi-tiered towers with elaborate roofs and exquisite details serve as sacred Buddhist monuments and symbols of peace and enlightenment."
+    },
+    {
+        "name":"卢瓦尔河谷城堡---法国",
+        "description_total":"Located along the scenic Loire River, these magnificent castles, known for their stunning architecture and beautiful gardens, depict the elegance and opulence of the French Renaissance era."
+    },
+    {
+        "name":"冰屋---因纽特人",
+        "description_total":"Located in the Arctic regions, these dome-shaped houses, made entirely of compacted snow and ice, showcase the Inuit's ingenuity and their ability to thrive in extreme cold environments."
+    },
+    {
+        "name":"茅草屋---英格兰",
+        "description_total":"Located in the picturesque English countryside, these charming cottages with their traditional thatched roofs evoke a sense of cozy nostalgia and rural beauty."
+    },
+    {
+        "name":"木屋---北欧与北美",
+        "description_total":"Located in the wilderness of Northern Europe and North America, these rustic wooden houses, built with interlocking logs, represent a close connection to nature and a cozy retreat from the modern world."
+    },
+    {
+        "name":"开普敦荷兰建筑---南非",
+        "description_total":"Located in South Africa, this architectural style is characterized by its distinctive gable design, whitewashed walls, and thatched roofs, reflecting the influence of Dutch colonial settlers on the region's built heritage."
+    },
+    {
+        "name":"皇后大厦---澳大利亚",
+        "description_total":"Located in Australia, this traditional style of residential architecture, characterized by raised floors, verandas, and ornate details, captures the essence of tropical living and showcases unique craftsmanship."
+    },
+    {
+        "name":"民家---日本",
+        "description_total":"Located in rural Japan, these traditional wooden houses, with their simple yet elegant designs and emphasis on harmony with nature, showcase the beauty and tranquility of Japanese countryside living."
+    },
+    {
+        "name":"古罗马圆形剧场---古罗马",
+        "description_total":"Located throughout ancient Rome, these grand circular stadiums, adorned with intricate architectural details, served as iconic venues for gladiatorial contests and artistic performances."
+    },
+    {
+        "name":"恩德贝勒涂饰房屋---南非",
+        "description_total":"Located in rural South Africa, these vibrant and geometrically patterned houses reflect the rich cultural heritage and artistic expression of the Ndebele tribe."
+    },
+    {
+        "name":"布朗斯通联排别墅---美国",
+        "description_total":"Located in the vibrant streets of New York City, these iconic row houses built with brownstone facades capture the charm of the city's architectural heritage and urban living."
+    },
+    {
+        "name":"蜂巢式房屋---叙利亚和土耳其",
+        "description_total":"Located in Syria and Turkey, these unique houses made of stacked stone or mud bricks resemble beehives and showcase the ingenuity and resourcefulness of their builders."
+    },
+    {
+        "name":"散弹枪房---美国南部",
+        "description_total":"Located throughout the Southern United States, these long, narrow houses with a single room behind the other showcase a distinctive architectural style characterized by simplicity, functionality, and efficient use of space."
+    },
+    {
+        "name":"普韦布洛复兴风格---美国",
+        "description_total":"Located predominantly in the southwestern United States, this architectural style is characterized by its adobe construction, flat roofs, and traditional Native American design elements, reflecting the rich cultural heritage of the region."
+    },
+    {
+        "name":"伊斯兰穆德哈建筑---西班牙",
+        "description_total":"Located throughout various regions in Spain, this unique architectural style blends Islamic and Christian influences, boasting exquisite geometric patterns and intricate tilework that showcase the country's rich cultural heritage."
+    },
+    {
+        "name":"提基小屋---波利尼西亚",
+        "description_total":"Located amidst the lush tropical landscapes of Polynesia, these traditional thatched-roof huts with symbolic carved figures offer a serene and authentic experience of island culture and relaxation."
+    },
+    {
+        "name":"帕拉瓦建筑（例如，马哈巴利普拉姆）---印度",
+        "description_total":"Located on the southeastern coast of India, this exquisite architectural style showcases intricate stone carvings and monolithic structures, reflecting the rich cultural heritage of the Pallava dynasty."
+    },
+    {
+        "name":"小木屋---阿尔卑斯山区",
+        "description_total":"Located in the picturesque Alpine regions, these charming wooden houses, with their sloping roofs and cozy interiors, perfectly blend with the natural surroundings, offering a serene mountain retreat."
+    },
+    {
+        "name":"穴居---中国",
+        "description_total":"Located in the rural areas of China, these unique dwellings carved into rock formations provide a harmonious blend of nature and architecture, showcasing the resourcefulness and creativity of the local community."
+    },
+    {
+        "name":"巴洛克建筑（例如凡尔赛宫）---欧洲",
+        "description_total":"Located throughout Europe, Baroque architecture flourished in the 17th and 18th centuries, characterized by its opulent ornamentation, grandeur, and theatricality, leaving a lasting mark on the continent's architectural history."
+    },
+    {
+        "name":"故宫（紫禁城）---中国",
+        "description_total":"Located in the heart of Beijing, this magnificent imperial palace complex, characterized by its grandeur, meticulous craftsmanship, and opulent decorations, serves as a testament to China's rich cultural heritage and imperial power throughout history."
+    },
+    {
+        "name":"竹楼---东南亚",
+        "description_total":"Located in various countries across Southeast Asia, these unique structures made entirely of bamboo showcase the region's sustainable and eco-friendly construction techniques, blending harmoniously with the natural surroundings."
+    },
+    {
+        "name":"蒙古包---蒙古",
+        "description_total":"Located across the nomadic landscapes of Mongolia, these traditional round dwellings, crafted with wooden frames and insulated with felt, symbolize the rich cultural heritage and adaptability of the Mongolian people."
+    },
+    {
+        "name":"特鲁利---意大利",
+        "description_total":"Located in the Puglia region of Italy, these ancient limestone dwellings with conical roofs and intricate white patterns represent a unique architectural style rooted in rural traditions and fascinating history."
+    },
+    {
+        "name":"伊斯兰清真寺（如蓝色清真寺）---中东",
+        "description_total":"Located in the Middle East, Islamic Mosques showcase exquisite Islamic architecture, with intricate decorations, domes, and minarets, serving as spiritual centers for prayer and community gatherings."
+    }
+]
