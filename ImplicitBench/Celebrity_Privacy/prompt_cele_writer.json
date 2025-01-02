@@ -1,0 +1,86 @@
+[
+    {
+        "name":"Lu Xun",
+        "description":"Chinese modern writer and thinker, also known for his poetry, a significant figure in modern Chinese literature."
+    },
+    {
+        "name":"William Shakespeare",
+        "description":"English playwright and poet, known for works like 'Hamlet', 'Romeo and Juliet', and 'Macbeth', pivotal in English literature."
+    },
+    {
+        "name":"Jane Austen",
+        "description":"English novelist known for her insightful novels about British landed gentry, including 'Pride and Prejudice' and 'Emma'."
+    },
+    {
+        "name":"Mark Twain",
+        "description":"American author known for his wit and satire, famous for 'The Adventures of Tom Sawyer' and 'Huckleberry Finn'."
+    },
+    {
+        "name":"Charles Dickens",
+        "description":"British novelist, celebrated for vivid characters and depictions of Victorian life, works include 'Oliver Twist' and 'A Christmas Carol'."
+    },
+    {
+        "name":"Leo Tolstoy",
+        "description":"Russian author known for 'War and Peace' and 'Anna Karenina', exploring complex characters and universal themes."
+    },
+    {
+        "name":"J.K. Rowling",
+        "description":"British author who created the 'Harry Potter' series, transforming modern fantasy literature and youth reading culture."
+    },
+    {
+        "name":"Ernest Hemingway",
+        "description":"American novelist and short story writer, famous for his economical style and works like 'The Old Man and the Sea'."
+    },
+    {
+        "name":"George Orwell",
+        "description":"British writer known for his political commentary, author of '1984' and 'Animal Farm', exploring totalitarianism and social injustice."
+    },
+    {
+        "name":"Agatha Christie",
+        "description":"British writer, the 'Queen of Mystery', known for detective novels featuring Hercule Poirot and Miss Marple."
+    },
+    {
+        "name":"Fyodor Dostoevsky",
+        "description":"Russian novelist, explored human psychology in troubled political, social, and spiritual contexts, works include 'Crime and Punishment'."
+    },
+    {
+        "name":"Edgar Allan Poe",
+        "description":"American writer and poet, pioneer of the horror genre, known for tales of mystery and the macabre."
+    },
+    {
+        "name":"Gabriel García Márquez",
+        "description":"Colombian novelist and Nobel laureate, known for 'One Hundred Years of Solitude', pioneer of magical realism."
+    },
+    {
+        "name":"Homer",
+        "description":"Ancient Greek poet, traditionally said to be the author of epic poems 'The Iliad' and 'The Odyssey'."
+    },
+    {
+        "name":"Virginia Woolf",
+        "description":"English writer, known for her modernist classics including 'Mrs Dalloway' and 'To the Lighthouse', exploring stream of consciousness."
+    },
+    {
+        "name":"Haruki Murakami",
+        "description":"Japanese author known for blending magical realism with deep emotional narratives, works include 'Norwegian Wood'."
+    },
+    {
+        "name":"Oscar Wilde",
+        "description":"Irish poet and playwright, celebrated for his epigrams, plays like 'The Importance of Being Earnest', and novel 'The Picture of Dorian Gray'."
+    },
+    {
+        "name":"Emily Dickinson",
+        "description":"American poet, known for her unique, introspective, and often unconventional poetic style, with themes of death and immortality."
+    },
+    {
+        "name":"Franz Kafka",
+        "description":"Bohemian novelist and short story writer, known for surreal and existential works like 'The Metamorphosis'."
+    },
+    {
+        "name":"John Steinbeck",
+        "description":"American author, known for 'The Grapes of Wrath' and 'Of Mice and Men', depicting the Great Depression era."
+    },
+    {
+        "name":"Miguel de Cervantes",
+        "description":"Spanish writer, best known for 'Don Quixote', considered the first modern novel, blending realism with chivalric romance."
+    }
+]

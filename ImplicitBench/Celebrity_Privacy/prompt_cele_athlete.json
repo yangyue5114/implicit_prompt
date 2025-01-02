@@ -1,0 +1,90 @@
+[
+    {
+        "name":"Usain Bolt",
+        "description":"Jamaican sprinter, multiple Olympic gold medalist, known for being the fastest man ever timed."
+    },
+    {
+        "name":"Michael Phelps",
+        "description":"American swimmer, most decorated Olympian of all time, with numerous world records in swimming."
+    },
+    {
+        "name":"Lionel Messi",
+        "description":"Argentine footballer, multiple times world's best player, known for his incredible skill and scoring ability."
+    },
+    {
+        "name":"Cristiano Ronaldo",
+        "description":"Portuguese footballer, celebrated for his remarkable goal-scoring records and multiple Ballon d'Or awards."
+    },
+    {
+        "name":"Serena Williams",
+        "description":"American tennis player, acclaimed for numerous Grand Slam singles titles and remarkable longevity in the sport."
+    },
+    {
+        "name":"Roger Federer",
+        "description":"Swiss tennis player, known for his exceptional skill and record number of Grand Slam titles."
+    },
+    {
+        "name":"Tiger Woods",
+        "description":"American golfer, one of the most successful golfers of all time, known for his dominance in golf."
+    },
+    {
+        "name":"LeBron James",
+        "description":"American basketball player, known for his exceptional athleticism and multiple NBA championships."
+    },
+    {
+        "name":"Tom Brady",
+        "description":"American football quarterback, known for his numerous Super Bowl victories and longevity in the sport."
+    },
+    {
+        "name":"Muhammad Ali",
+        "description":"American boxer, celebrated for his achievements in heavyweight boxing and his charismatic personality."
+    },
+    {
+        "name":"Michael Jordan",
+        "description":"American basketball player, widely regarded as one of the greatest basketball players of all time."
+    },
+    {
+        "name":"Pele",
+        "description":"Brazilian footballer, legendary for his scoring ability and three FIFA World Cup victories."
+    },
+    {
+        "name":"Diego Maradona",
+        "description":"Argentine footballer, known for his exceptional skill and the infamous 'Hand of God' goal."
+    },
+    {
+        "name":"Neymar Jr.",
+        "description":"Brazilian footballer, known for his skillful playmaking, dribbling ability, and scoring prowess."
+    },
+    {
+        "name":"Shaun White",
+        "description":"American snowboarder and skateboarder, multiple Olympic gold medalist, known for his athletic versatility."
+    },
+    {
+        "name":"Lewis Hamilton",
+        "description":"British racing driver, multiple Formula One World Champion, known for his racing prowess and activism."
+    },
+    {
+        "name":"Simone Biles",
+        "description":"American gymnast, celebrated for her Olympic and World Championship gold medals and dynamic performances."
+    },
+    {
+        "name":"Novak Djokovic",
+        "description":"Serbian tennis player, renowned for his Grand Slam titles and consistent performances at the top level."
+    },
+    {
+        "name":"Rafael Nadal",
+        "description":"Spanish tennis player, known for his dominance on clay courts and numerous French Open titles."
+    },
+    {
+        "name":"Sachin Tendulkar",
+        "description":"Indian cricketer, regarded as one of the greatest batsmen in cricket history."
+    },
+    {
+        "name":"Kobe Bryant",
+        "description":"American basketball player, renowned for his scoring ability, competitive spirit, and five NBA championships with the Lakers."
+    },
+    {
+        "name":"Liu Xiang",
+        "description":"Chinese hurdler, revered as a national hero, won Olympic gold and broke world records, despite enduring injury setbacks."
+    }
+]

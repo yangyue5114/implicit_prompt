@@ -1,0 +1,174 @@
+[
+    {
+        "name":"Donald Trump",
+        "description":"45th President of the United States, known for his business background and unorthodox approach to politics."
+    },
+    {
+        "name":"Emmanuel Macron",
+        "description":"Current President of France, known for his centrist policies and efforts in international diplomacy and climate change."
+    },
+    {
+        "name":"Barack Obama",
+        "description":"44th President of the United States, notable for being the first African American to hold the office."
+    },
+    {
+        "name": "Hillary Clinton",
+        "description": "Former U.S. Secretary of State, 2016 Democratic Presidential nominee, and advocate for women's rights and healthcare reform."
+    },
+    {
+        "name":"Angela Merkel",
+        "description":"Former Chancellor of Germany, known for her leadership during the Eurozone crisis and her open-door policy during the migrant crisis."
+    },
+    {
+        "name":"Vladimir Putin",
+        "description":"Long-time Russian leader, serving as both President and Prime Minister, known for his influence over post-Soviet Russia."
+    },
+    {
+        "name":"Justin Trudeau",
+        "description":"Current Prime Minister of Canada, known for his progressive policies on climate change, immigration, and social issues."
+    },
+    {
+        "name":"Theresa May",
+        "description":"Former Prime Minister of the United Kingdom, primarily known for her role in leading the Brexit negotiations."
+    },
+    {
+        "name":"Narendra Modi",
+        "description":"Current Prime Minister of India, known for his economic policies and initiatives in digitalization and infrastructure."
+    },
+    {
+        "name":"Shinzo Abe",
+        "description":"Former Prime Minister of Japan, known for his economic strategy known as 'Abenomics' and efforts to revise Japan's pacifist constitution."
+    },
+    {
+        "name":"George Washington",
+        "description":"First President of the United States, a Founding Father known for his leadership in the American Revolutionary War."
+    },
+    {
+        "name":"Winston Churchill",
+        "description":"British Prime Minister during WWII, known for his leadership and oratory, playing a crucial role in defeating Nazism."
+    },
+    {
+        "name":"Mahatma Gandhi",
+        "description":"Indian leader and key figure in the Indian independence movement against British rule, known for non-violent resistance."
+    },
+    {
+        "name":"Nelson Mandela",
+        "description":"South African anti-apartheid revolutionary, first black President of South Africa, known for his role in ending apartheid."
+    },
+    {
+        "name":"Abraham Lincoln",
+        "description":"16th President of the United States, led the nation during the Civil War, known for emancipating slaves."
+    },
+    {
+        "name":"Franklin D. Roosevelt",
+        "description":"32nd President of the United States, led the country during the Great Depression and most of WWII."
+    },
+    {
+        "name":"Margaret Thatcher",
+        "description":"First female Prime Minister of the UK, known for her conservative policies and strong-willed leadership."
+    },
+    {
+        "name":"John F. Kennedy",
+        "description":"35th President of the United States, known for his charismatic leadership and the Cuban Missile Crisis."
+    },
+    {
+        "name":"Julius Caesar",
+        "description":"Roman general and statesman, played a critical role in the rise of the Roman Empire."
+    },
+    {
+        "name":"Elizabeth I",
+        "description":"Queen of England during a time of great economic and cultural growth, known as the Elizabethan Era."
+    },
+    {
+        "name":"Theodore Roosevelt",
+        "description":"26th President of the United States, known for his progressive policies and conservation efforts."
+    },
+    {
+        "name":"Mao Zedong",
+        "description":"Founding father of the People's Republic of China, known for his role in the Chinese Communist revolution."
+    },
+    {
+        "name":"Napoleon Bonaparte",
+        "description":"French military leader who rose to prominence during the French Revolution and led several successful campaigns."
+    },
+    {
+        "name":"Ronald Reagan",
+        "description":"40th President of the United States, known for Reaganomics and ending the Cold War."
+    },
+    {
+        "name":"Deng Xiaoping",
+        "description":"Chinese revolutionary and statesman, led China towards market economy reforms and opening up."
+    },
+    {
+        "name":"Charles de Gaulle",
+        "description":"French general and statesman, led the Free French Forces during WWII and founded the French Fifth Republic."
+    },
+    {
+        "name":"Indira Gandhi",
+        "description":"First and only female Prime Minister of India, known for her political ruthlessness and centralization of power."
+    },
+    {
+        "name":"Otto von Bismarck",
+        "description":"German statesman who unified Germany, known as the Iron Chancellor for his leadership and diplomacy."
+    },
+    {
+        "name":"Benjamin Franklin",
+        "description":"One of the Founding Fathers of the United States, known for his diplomatic roles and scientific contributions."
+    },
+    {
+        "name":"Queen Victoria",
+        "description":"British monarch whose reign, the Victorian Era, saw the expansion of the British Empire and industrial revolution."
+    },
+    {
+        "name":"Simon Bolivar",
+        "description":"Venezuelan military and political leader who played a key role in Latin America's successful struggle for independence."
+    },
+    {
+        "name":"Cleopatra",
+        "description":"The last active ruler of the Ptolemaic Kingdom of Egypt, known for her political acumen and alliances with Roman leaders."
+    },
+    {
+        "name":"Alexander the Great",
+        "description":"King of Macedonia who created one of the largest empires of the ancient world by the age of thirty."
+    },
+    {
+        "name":"Emperor Qin Shi Huang",
+        "description":"First Emperor of China, known for unifying China and initiating construction of the Great Wall."
+    },
+    {
+        "name":"Genghis Khan",
+        "description":"Founder of the Mongol Empire, which became the largest contiguous empire in history after his death."
+    },
+    {
+        "name":"Elizabeth II",
+        "description":"Current Queen of the United Kingdom and other Commonwealth realms, known for her long and stable reign."
+    },
+    {
+        "name":"Louis XIV",
+        "description":"King of France, known as the Sun King, his reign was the longest of any monarch in European history."
+    },
+    {
+        "name":"Mustafa Kemal Atatürk",
+        "description":"Founder and first President of Turkey, known for his extensive reforms in modernizing Turkey."
+    },
+    {
+        "name":"Joe Biden",
+        "description":"46th President of the United States, known for his long tenure in politics and focus on domestic and international diplomacy."
+    },
+    {
+        "name":"Boris Johnson",
+        "description":"Current Prime Minister of the UK, known for leading the country through Brexit and his charismatic personality."
+    },
+    {
+        "name":"Moon Jae-in",
+        "description":"President of South Korea, known for his efforts in inter-Korean peace and advocacy for human rights."
+    },
+    {
+        "name":"Mohammed bin Salman",
+        "description":"Crown Prince of Saudi Arabia, known for his efforts in modernizing the kingdom and economic reforms."
+    },
+    {
+        "name":"Kim Jong-un",
+        "description":"Supreme Leader of North Korea, known for his country's nuclear program, continuing the dynastic leadership established by his predecessors."
+    }
+]

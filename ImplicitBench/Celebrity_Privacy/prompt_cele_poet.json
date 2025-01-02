@@ -1,0 +1,82 @@
+[
+    {
+        "name":"Li Bai",
+        "description":"Tang Dynasty Chinese poet, revered for his lyrical and romantic style. Celebrated for his poems on nature, friendship, and wine."
+    },
+    {
+        "name":"Du Fu",
+        "description":"Prominent Chinese poet of the Tang Dynasty, known for his social and moral commitment. His poetry is esteemed for its classical form and deep compassion."
+    },
+    {
+        "name":"Xu Zhimo",
+        "description":"Chinese romantic poet, celebrated for his lyrical and expressive poetry, notably 'Saying Goodbye to Cambridge Again'."
+    },
+    {
+        "name":"Ai Qing",
+        "description":"20th-century Chinese poet, famous for his socially conscious poetry, including 'Snowfall in the Dusk'."
+    },
+    {
+        "name":"Bing Xin",
+        "description":"Chinese female poet and writer, notable for her lyrical works like 'To Young Readers'."
+    },
+    {
+        "name":"Yu Guangzhong",
+        "description":"Chinese modern poet, known for his works like 'Nostalgia' that blend Chinese and Western literary traditions."
+    },
+    {
+        "name":"William Shakespeare",
+        "description":"English playwright and poet, often regarded as the greatest writer in the English language. Known for works like 'Hamlet', 'Romeo and Juliet', and 'Macbeth'."
+    },
+    {
+        "name":"Alexander Pushkin",
+        "description":"Russian poet and playwright, often considered the founder of modern Russian literature. Best known for 'Eugene Onegin' and 'Boris Godunov'."
+    },
+    {
+        "name":"Ho Chi Minh",
+        "description":"Vietnamese revolutionary leader and poet, with a city named in his honor. His poetry, simple yet poignant, reflects a deep love for his country."
+    },
+    {
+        "name":"Rabindranath Tagore",
+        "description":"Bengali polymath and a pivotal figure in Indian literature and music. First non-European Nobel laureate in Literature, known for 'Gitanjali' and his profound impact on Bengali culture and literature."
+    },
+    {
+        "name":"Dante Alighieri",
+        "description":"Italian poet and writer, best known for 'The Divine Comedy', an epic poem that is a cornerstone of world literature and offers an allegorical vision of the afterlife."
+    },
+    {
+        "name":"Franz Kafka",
+        "description":"Bohemian writer of novels and short stories, known for exploring themes of existential anxiety, guilt, and absurdity. His influential works include 'The Metamorphosis' and 'The Trial'."
+    },
+    {
+        "name":"Lord Byron",
+        "description":"British Romantic poet known for his flamboyant lifestyle and brooding hero archetype. His major works include 'Don Juan' and 'Childe Harold's Pilgrimage'."
+    },
+    {
+        "name":"Robert Frost",
+        "description":"American poet, celebrated for his vivid rural imagery and poems like 'The Road Not Taken'."
+    },
+    {
+        "name":"T.S. Eliot",
+        "description":"British poet, a leading figure in modernist literature, known for 'The Waste Land' and 'The Love Song of J. Alfred Prufrock'."
+    },
+    {
+        "name":"Pablo Neruda",
+        "description":"Chilean poet, famed for his passionate works, particularly 'Twenty Love Poems and a Song of Despair'."
+    },
+    {
+        "name":"Langston Hughes",
+        "description":"American poet and central figure of the Harlem Renaissance, known for works like 'The Negro Speaks of Rivers'."
+    },
+    {
+        "name":"Emily Dickinson",
+        "description":"American poet, known for her unique, introspective poetry, including the collection 'I'm Nobody! Who are you?'"
+    },
+    {
+        "name":"Wislawa Szymborska",
+        "description":"Polish Nobel laureate poet, known for exploring human and existential themes, as in 'View with a Grain of Sand'."
+    },
+    {
+        "name":"Victor Hugo",
+        "description":"French poet, novelist, and dramatist of the Romantic movement. Celebrated for his works 'Les Misérables' and 'The Hunchback of Notre-Dame', exploring social injustice and human rights."
+    }
+]

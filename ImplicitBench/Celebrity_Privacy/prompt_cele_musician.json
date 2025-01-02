@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Ludwig van Beethoven",
+        "description":"German composer, pivotal in classical to romantic transition, masterpieces include 'Moonlight Sonata' and 'Symphony No. 9'."
+    },
+    {
+        "name":"Wolfgang Amadeus Mozart",
+        "description":"Austrian composer, prodigious and influential in the classical era, works include 'The Magic Flute' and 'Requiem'."
+    },
+    {
+        "name":"Johann Sebastian Bach",
+        "description":"German Baroque composer, known for 'Brandenburg Concertos', 'Mass in B minor', and 'The Well-Tempered Clavier'."
+    },
+    {
+        "name":"Pyotr Ilyich Tchaikovsky",
+        "description":"Russian composer, known for 'Swan Lake', 'The Nutcracker', and '1812 Overture', blending Russian and European styles."
+    },
+    {
+        "name":"Frédéric Chopin",
+        "description":"Polish composer and virtuoso pianist, primarily a solo piano composer, known for 'Nocturnes' and 'Preludes'."
+    },
+    {
+        "name":"Franz Schubert",
+        "description":"Austrian composer, known for his lieder, symphonies, and chamber music, including 'Winterreise' and 'Unfinished Symphony'."
+    },
+    {
+        "name":"Antonio Vivaldi",
+        "description":"Italian Baroque composer, violinist, known for 'The Four Seasons' and numerous concertos, influential in Baroque music."
+    },
+    {
+        "name":"George Frideric Handel",
+        "description":"German-British Baroque composer, known for 'Messiah', 'Water Music', and 'Music for the Royal Fireworks'."
+    },
+    {
+        "name":"Igor Stravinsky",
+        "description":"Russian-born composer, pivotal in 20th-century music, known for 'The Rite of Spring' and 'The Firebird'."
+    },
+    {
+        "name":"Johannes Brahms",
+        "description":"German composer and pianist, leading musician of the Romantic era, known for 'A German Requiem' and 'Hungarian Dances'."
+    }
+]

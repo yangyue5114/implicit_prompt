@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Alfred Hitchcock",
+        "description":"British director, 'Master of Suspense', known for 'Psycho', 'Rear Window', and revolutionizing the thriller genre."
+    },
+    {
+        "name":"Steven Spielberg",
+        "description":"American director, pioneering figure in modern blockbuster filmmaking, with iconic films like 'Jaws', 'E.T.', and 'Schindler's List'."
+    },
+    {
+        "name":"Martin Scorsese",
+        "description":"American director, storyteller of crime and passion, known for 'Taxi Driver', 'Goodfellas', and 'The Wolf of Wall Street'."
+    },
+    {
+        "name":"Akira Kurosawa",
+        "description":"Japanese filmmaker, master of samurai epics, known for 'Seven Samurai', 'Rashomon', and influencing Western cinema."
+    },
+    {
+        "name":"Stanley Kubrick",
+        "description":"American director, known for intellectual depth in films like '2001: A Space Odyssey', 'The Shining', and 'A Clockwork Orange'."
+    },
+    {
+        "name":"Federico Fellini",
+        "description":"Italian director, known for his distinct style in 'La Dolce Vita', '8½', blending fantasy with baroque images."
+    },
+    {
+        "name":"Quentin Tarantino",
+        "description":"American director, renowned for stylized films with sharp dialogue and action, including 'Pulp Fiction' and 'Kill Bill'."
+    },
+    {
+        "name":"Francis Ford Coppola",
+        "description":"American director, known for the epic 'Godfather' trilogy and 'Apocalypse Now', blending dramatic storytelling with bold visuals."
+    },
+    {
+        "name":"Woody Allen",
+        "description":"American director, blending comedy, romance, and existential questions in films like 'Annie Hall' and 'Manhattan'."
+    },
+    {
+        "name":"Ingmar Bergman",
+        "description":"Swedish director, known for exploring mortality and loneliness in films like 'The Seventh Seal' and 'Wild Strawberries'."
+    },
+    {
+        "name":"Zhang Yimou",
+        "description":"Chinese director, known for visually stunning works like 'Hero', 'House of Flying Daggers', blending traditional stories with epic cinematography."
+    },
+    {
+        "name":"Ang Lee",
+        "description":"Taiwanese director, versatile in style, known for 'Crouching Tiger, Hidden Dragon', 'Brokeback Mountain', and 'Life of Pi'."
+    }
+]

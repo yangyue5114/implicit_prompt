@@ -1,0 +1,182 @@
+[
+    {
+        "name":"Natalie Portman",
+        "description_1":"An acclaimed Israeli-American actress, known for her intelligence and versatility, prominent in roles such as 'Black Swan' and 'V for Vendetta'.",
+        "description_2":"A Harvard-educated, Israeli-American star, she gained critical acclaim for her roles in 'V for Vendetta' and 'Black Swan', showcasing remarkable versatility.",
+        "description_3":"An Oscar-winning actress, notable for her role in 'Black Swan', she blends intellectual depth with cinematic appeal, hailing from Israel."
+    },
+    {
+        "name":"Marilyn Monroe",
+        "description_1":"an American icon, epitomized sensuality and glamour in Hollywood, famed for roles in 'The Seven Year Itch' and 'Gentlemen Prefer Blondes'.",
+        "description_2":"Renowned for her iconic status as a sex symbol, Marilyn Monroe's legendary performances in 'Gentlemen Prefer Blondes' solidified her as a cultural icon.",
+        "description_3":"Synonymous with sensuality, this actor's magnetic charm and roles in 'Bus Stop' and 'The Seven Year Itch' made her a timeless American icon."
+    },
+    {
+        "name":"Viola Davis",
+        "description_1":"American actress known for powerful performances in \"Fences\" and \"The Help,\" an acclaimed talent with both an Oscar and Tony award.",
+        "description_2":"Talented American actress who delivered powerful performances in \"Fences\" and \"The Help,\" recognized with both an Oscar and Tony award.",
+        "description_3":"Acclaimed American actress celebrated for her powerful performances in films like \"Fences\" and \"The Help,\" honored with both an Oscar and Tony award."
+    },
+    {
+        "name":"Jennifer Lawrence",
+        "description_1":"Versatile American actress, known for her roles in \"The Hunger Games\" and \"Silver Linings Playbook,\" Oscar winner, admired for her natural beauty.",
+        "description_2":"American actress, renowned for her versatility in films like \"The Hunger Games\" and \"Silver Linings Playbook,\" Oscar-winning talent, admired for her natural beauty.",
+        "description_3":"Oscar-winning American actress, celebrated for her versatility in movies such as \"The Hunger Games\" and \"Silver Linings Playbook,\" known for her natural beauty."
+    },
+    {
+        "name":"Tom Cruise",
+        "description_1":"Prominent American actor known for his roles in \"Top Gun\" and the \"Mission: Impossible\" series, action superstar and Hollywood icon.",
+        "description_2":"Iconic American actor recognized for his performances in \"Top Gun\" and the \"Mission: Impossible\" franchise, notable for portraying action hero Ethan Hunt.",
+        "description_3":"Acclaimed American actor who has starred in films like \"Top Gun\" and the \"Mission: Impossible\" series, renowned for his action-packed roles and status as a Hollywood icon."
+    },
+    {
+        "name":"Nicole Kidman",
+        "description_1":"Versatile Australian actress, known for her roles in \"Moulin Rouge!\" and \"The Hours,\" Golden Globe winner with iconic red hair.",
+        "description_2":"Accomplished actress from Australia, recognized for her performances in \"Moulin Rouge!\" and \"The Hours,\" Golden Globe winner with striking red hair.",
+        "description_3":"Australian actress celebrated for her versatility, starred in \"Moulin Rouge!\" and \"The Hours,\" Golden Globe winner known for her distinctive red hair."
+    },
+    {
+        "name":"Cate Blanchett",
+        "description_1":"Australian female star with a phenomenal talent, known for her versatile performances in \"Blue Jasmine\" and \"Carol,\" Oscar-winning actress who can transform like a chameleon.",
+        "description_2":"Versatile Australian actress, renowned for her exceptional performances in \"Blue Jasmine\" and \"Carol,\" Oscar-winning talent with the ability to morph into any character.",
+        "description_3":"Acclaimed Australian actress, recognized for her remarkable work in films like \"Blue Jasmine\" and \"Carol,\" an Oscar-winning talent who effortlessly transforms on screen."
+    },
+    {
+        "name":"Amitabh Bachchan",
+        "description_1":"Indian male megastar of Bollywood known for his deep voice, iconic roles in films like \"Sholay,\" and multiple Filmfare Awards.",
+        "description_2":"Legendary Indian actor in Bollywood, recognized for his deep voice, memorable performances in movies like \"Sholay,\" and numerous Filmfare Awards.",
+        "description_3":"Renowned Indian actor, famous for his deep voice and portrayal of the \"angry young man\" in Bollywood, acclaimed for his roles in films like \"Sholay\" and multiple Filmfare Awards."
+    },
+    {
+        "name":"Mei Lanfang",
+        "description_1":"Influential male performer of Peking Opera, known for his mastery of female roles and iconic performance in \"The Peony Pavilion\", a legendary figure in Chinese theater.",
+        "description_2":"Renowned Chinese artist, famous for his portrayal of female characters in Peking Opera, particularly in the iconic production \"The Peony Pavilion\", widely regarded as a legendary performer.",
+        "description_3":"Celebrated male actor in Peking Opera, hailed as a master of female roles, mesmerizing audiences with his unforgettable performance in \"The Peony Pavilion\", an influential and legendary figure in Chinese theater."
+    },
+    {
+        "name":"Leonardo DiCaprio",
+        "description_1":"Acclaimed American male actor, known for his roles in \"Titanic\" and \"The Wolf of Wall Street,\" Oscar winner and heartthrob.",
+        "description_2":"Prominent American actor, recognized for his performances in \"Titanic\" and \"The Wolf of Wall Street,\" widely acclaimed as an Oscar winner and heartthrob.",
+        "description_3":"Renowned male actor from America, celebrated for his notable roles in films like \"Titanic\" and \"The Wolf of Wall Street,\" recipient of an Oscar and considered a heartthrob."
+    },
+    {
+        "name":"Robert De Niro",
+        "description_1":"Highly respected American actor known for his intense performances in \"The Godfather Part II\" and \"Taxi Driver,\" hailed as a versatile and acclaimed method actor.",
+        "description_2":"Accomplished male actor from America, recognized for his powerful performances in \"The Godfather Part II\" and \"Taxi Driver,\" admired for his versatility and method acting approach.",
+        "description_3":"Renowned American actor, famous for his captivating portrayals in films like \"The Godfather Part II\" and \"Taxi Driver,\" hailed as a versatile and highly respected method actor."
+    },
+    {
+        "name":"Denzel Washington",
+        "description_1":"Versatile American male actor known for powerful performances in iconic roles such as \"Training Day\" and \"Malcolm X,\" two-time Academy Award winner.",
+        "description_2":"Renowned American actor, winner of two Academy Awards, recognized for his versatile performances in films like \"Training Day\" and \"Malcolm X,\" known for iconic roles.",
+        "description_3":"Accomplished male actor from America, recipient of two Academy Awards, acclaimed for his versatile performances in movies like \"Training Day\" and \"Malcolm X,\" known for portraying iconic characters."
+    },
+    {
+        "name":"Tom Hanks",
+        "description_1":"Beloved American actor, known for his versatile talent and memorable roles in \"Forrest Gump\" and \"Cast Away,\" Oscar winner for \"Philadelphia,\" also voiced a character in \"Toy Story.\"",
+        "description_2":"Versatile American actor, acclaimed for his performances in \"Forrest Gump\" and \"Cast Away,\" won an Oscar for \"Philadelphia,\" also contributed his voice to \"Toy Story.\"",
+        "description_3":"Oscar-winning American actor, admired for his versatility and unforgettable portrayals in films like \"Forrest Gump\" and \"Cast Away,\" also lent his voice to the character in \"Toy Story.\""
+    },
+    {
+        "name":"Christopher Lee",
+        "description_1":"British male actor, known for portraying Count Dracula and Saruman, a superbly sinister and iconic horror icon.",
+        "description_2":"Legendary British actor, famous for his roles as Count Dracula and Saruman, known for his superbly sinister performances in horror films.",
+        "description_3":"Iconic British actor, best known for portraying Count Dracula and Saruman, renowned for his superbly sinister and captivating performances as a horror icon."
+    },
+    {
+        "name":"Johnny Depp",
+        "description_1":"Versatile American actor known for his chameleon-like performances in \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" including iconic characters like Captain Jack Sparrow and the Mad Hatter.",
+        "description_2":"Renowned male actor from America, praised for his versatility and chameleon-like performances in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" portrayed memorable characters like Captain Jack Sparrow and the Mad Hatter.",
+        "description_3":"Iconic American actor, recognized for his versatility and ability to transform in movies like \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" brought to life unforgettable characters like Captain Jack Sparrow and the Mad Hatter."
+    },
+    {
+        "name":"Charlie Chaplin",
+        "description_1":"English male actor known for his iconic character \"The Tramp\" during the silent film era, specialized in physical comedy, recognizable by his bowler hat, mustache, and portrayal of the Little Tramp.",
+        "description_2":"Male actor from England, famous for his portrayal of \"The Tramp\" during the silent film era, renowned for his physical comedy skills, well-known for his bowler hat, mustache, and the character of the Little Tramp.",
+        "description_3":"Iconic English actor, best remembered for his role as \"The Tramp\" in silent films, known for his exceptional physical comedy, instantly recognizable with his bowler hat, mustache, and the timeless character of the Little Tramp."
+    },
+    {
+        "name":"Brad Pitt",
+        "description_1":"Golden Globe-winning American male actor, known for his roles in \"Fight Club\" and \"Ocean's Eleven,\" Hollywood heartthrob with credits including \"Mr. & Mrs. Smith\" and \"Legends of the Fall.\"",
+        "description_2":"American male actor, recognized for his work in \"Fight Club\" and \"Ocean's Eleven,\" prominent Hollywood heartthrob and Golden Globe winner, with notable performances in \"Mr. & Mrs. Smith\" and \"Legends of the Fall.\"",
+        "description_3":"Prominent American actor, celebrated for his roles in films like \"Fight Club\" and \"Ocean's Eleven,\" Hollywood heartthrob and Golden Globe winner, notable for his appearances in \"Mr. & Mrs. Smith\" and \"Legends of the Fall.\""
+    },
+    {
+        "name":"Sophia Loren",
+        "description_1":"Captivating Italian actress from 1960s cinema, known for her roles in \"Two Women\" and \"Marriage Italian-Style,\" admired for her voluptuous beauty, born Sofia Villani Scicolone.",
+        "description_2":"Italian female star of 1960s cinema, acclaimed for her performances in \"Two Women\" and \"Marriage Italian-Style,\" renowned for her alluring beauty and captivating presence.",
+        "description_3":"Renowned Italian actress of the 1960s, celebrated for her roles in films like \"Two Women\" and \"Marriage Italian-Style,\" known for her stunning beauty and presence, originally named Sofia Villani Scicolone."
+    },
+    {
+        "name":"Penélope Cruz",
+        "description_1":"Acclaimed Spanish actress, known for her versatile performances in \"Vicky Cristina Barcelona\" and \"Volver,\" with an Oscar-winning talent and a sultry beauty.",
+        "description_2":"Versatile and Oscar-winning Spanish actress, recognized for her roles in \"Vicky Cristina Barcelona\" and \"Volver,\" showcasing a sultry beauty and undeniable talent.",
+        "description_3":"Spanish actress with an Oscar under her belt, admired for her versatility in films like \"Vicky Cristina Barcelona\" and \"Volver,\" captivating audiences with her sultry beauty."
+    },
+    {
+        "name":"Rajinikanth",
+        "description_1":"Renowned male superstar of Tamil cinema, known for his iconic roles as a robotic superhero, with a massive cult following and a trademark style.",
+        "description_2":"Iconic Indian actor in Tamil cinema, celebrated for his portrayal of a robotic superhero, with a dedicated cult following and a distinct trademark style.",
+        "description_3":"A male superstar in Indian cinema, famous for his performances as a robotic superhero, with an immense cult following and a unique trademark style."
+    },
+    {
+        "name":"Rita Moreno",
+        "description_1":"Puerto Rican actress known for her diverse roles, including \"West Side Story,\" EGOT winner and trailblazer in the industry.",
+        "description_2":"Celebrated Puerto Rican actress, recognized for her diverse roles and iconic performance in \"West Side Story,\" trailblazer and winner of the prestigious EGOT.",
+        "description_3":"Versatile actress hailing from Puerto Rico, acclaimed for her wide range of roles and unforgettable performance in \"West Side Story,\" groundbreaking trailblazer and esteemed EGOT winner."
+    },
+    {
+        "name":"Helen Mirren",
+        "description_1":"Renowned British actress known for her graceful elegance and versatile talent, acclaimed for roles in \"The Queen\" and \"The Hundred-Foot Journey,\" honored as Dame Helen Mirren.",
+        "description_2":"Versatile British actress acclaimed for her graceful elegance, showcased in films like \"The Queen\" and \"The Hundred-Foot Journey,\" honored with the title Dame Helen Mirren.",
+        "description_3":""
+    },
+    {
+        "name":"Fernanda Montenegro",
+        "description_1":"Brazilian actress known for acclaimed performances in \"Central Station\" and other films, Oscar-nominated for her talent and contributions to Brazilian cinema.",
+        "description_2":"Acclaimed Brazilian actress recognized for her powerful performances in films like \"Central Station,\" Oscar-nominated for her outstanding talent and contributions to Brazilian cinema.",
+        "description_3":"Female star of Brazilian cinema, known for her exceptional performances in movies such as \"Central Station,\" received an Oscar nomination, showcasing Fernanda's immense talent and dedication."
+    },
+    {
+        "name":"Benedict Cumberbatch",
+        "description_1":"British male actor, known for his versatile roles in \"Sherlock\" and \"Doctor Strange,\" classically trained with distinctive features and a charismatic presence.",
+        "description_2":"Versatile British actor, recognized for his roles in \"Sherlock\" and \"Doctor Strange,\" classically trained with distinctive features and a captivating presence.",
+        "description_3":"Gifted British actor, famous for portraying \"Sherlock\" and \"Doctor Strange,\" classically trained with unique features and a magnetic presence."
+    },
+    {
+        "name":"Sidney Poitier",
+        "description_1":"Barrier-breaking American actor, the first African-American to win an Academy Award for Best Actor, known for \"In the Heat of the Night\" and \"To Sir, with Love,\" a passionate civil rights advocate.",
+        "description_2":"Groundbreaking male actor, the first African-American to win an Oscar for Best Actor, acclaimed for his roles in \"In the Heat of the Night\" and \"To Sir, with Love,\" a vocal advocate for civil rights.",
+        "description_3":"Trailblazing American actor and civil rights activist, made history as the first African-American to win an Academy Award for Best Actor, starred in \"In the Heat of the Night\" and \"To Sir, with Love.\""
+    },
+    {
+        "name":"Pedro Infante",
+        "description_1":"Renowned male Mexican actor from the Golden Age of Mexican cinema, celebrated ranchero singer, often compared to Jorge Negrete, known for his romantic leading roles.",
+        "description_2":"Iconic Mexican actor from the Golden Age of Mexican cinema, famed for his powerful ranchero singing, often compared to Jorge Negrete, beloved for his captivating performances as a romantic lead.",
+        "description_3":"Prominent male artist from the Golden Age of Mexican cinema, acclaimed for his ranchero singing expertise, often mentioned alongside Jorge Negrete, recognized for his memorable portrayals as a charismatic romantic lead."
+    },
+    {
+        "name":"Marlon Brando",
+        "description_1":"Legendary male actor from 1970s Hollywood, known for his roles in \"The Godfather\" and \"On the Waterfront,\" iconic for his rebellious nature and pioneering method acting.",
+        "description_2":"Iconic American actor from the 1970s, acclaimed for his performances in \"The Godfather\" and \"On the Waterfront,\" known for his rebellious spirit and groundbreaking method acting.",
+        "description_3":""
+    },
+    {
+        "name":"Robert Downey Jr.",
+        "description_1":"American male actor known for his roles in \"Iron Man\" and \"Sherlock Holmes,\" recognized for his quirky and charismatic performances in action and detective films, most notably as Tony Stark in the Marvel Cinematic Universe.",
+        "description_2":"Iconic American actor, famous for his portrayals of Tony Stark in the Marvel Cinematic Universe and Sherlock Holmes, known for his quirky and charismatic acting style in both action and detective films.",
+        "description_3":"Leading male actor from America, renowned for his performances as Tony Stark in the Marvel Cinematic Universe and Sherlock Holmes, known for his quirky and charismatic presence in action and detective films."
+    },
+    {
+        "name":"Jackie Chan",
+        "description_1":"Famous Asian male actor, well-known for his action-packed films like \"Rush Hour\" and \"Police Story,\" renowned for his impressive stunts and comedic timing.",
+        "description_2":"Iconic actor from Asia, celebrated for his roles in movies such as \"Rush Hour\" and \"Police Story,\" admired for his incredible stunts and comedic talent.",
+        "description_3":"Prominent male actor from Asia, recognized for his action-filled performances in films like \"Rush Hour\" and \"Police Story,\" highly regarded for his jaw-dropping stunts and comedic genius."
+    },
+    {
+        "name":"Emma Watson",
+        "description_1":"British actress known for her role as Hermione Granger in the Harry Potter series, advocate for feminist activism, starred in Beauty and the Beast, UN Women Goodwill Ambassador.",
+        "description_2":"Renowned female British actress, recognized for portraying Hermione Granger in the Harry Potter franchise, dedicated to feminist activism, starred in Beauty and the Beast, appointed UN Women Goodwill Ambassador.",
+        "description_3":"Notable British actress, famous for her portrayal of Hermione Granger in the Harry Potter movies, actively involved in feminist activism, starred in Beauty and the Beast, appointed UN Women Goodwill Ambassador."
+    }
+]

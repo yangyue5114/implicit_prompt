@@ -1,0 +1,74 @@
+[
+    {
+        "name":"Zhang Daqian",
+        "description_1":"Renowned Chinese modernist celebrated for his mastery of landscape and bamboo painting.",
+        "description_2":"Prominent figure in Chinese art history, known for his innovative ink paintings and skillful bamboo artworks.",
+        "description_3":""
+    },
+    {
+        "name":"Qi Baishi",
+        "description_1":"Modernist ink painter renowned for delicate renditions of camellias, lotus flowers, and graceful brushwork.",
+        "description_2":"Celebrated Chinese artist recognized for his exquisite ink paintings of camellias and lotus flowers.",
+        "description_3":"Honored with the Medal of Honor, a master of brushwork and renowned for his captivating ink paintings."
+    },
+    {
+        "name":"Michelangelo",
+        "description_1":"Renowned Italian sculptor and painter of the Renaissance, celebrated for \"David\" and the awe-inspiring Sistine Chapel.",
+        "description_2":"Distinguished figure of the Italian Renaissance, known for masterpieces like \"David\" and the captivating frescoes in the Sistine Chapel.",
+        "description_3":"Accomplished artist and sculptor from the Italian Renaissance, famed for the intricacy of \"David\" and the spiritual grandeur of the Sistine Chapel."
+    },
+    {
+        "name":"Pablo Picasso",
+        "description_1":"Spanish artist renowned for his groundbreaking cubist works, including \"Guernica\" and \"Les Demoiselles d'Avignon\".",
+        "description_2":"Pioneer of the Cubism movement, the Spanish artist created iconic pieces like \"Guernica\" and challenged artistic norms.",
+        "description_3":"A sculptor turned painter, his abstract style and masterpieces like \"Les Demoiselles d'Avignon\"."
+    },
+    {
+        "name":"Jackson Pollock",
+        "description_1":"An American avant-garde artist who pioneered \"drip painting\" and \"action painting\", known for his experimental and unconventional style.",
+        "description_2":"Renowned for his chaotic and unconventional approach, this American artist is synonymous with \"drip painting\" and \"action painting\".",
+        "description_3":"A trailblazing figure in abstract expressionism, this American artist revolutionized the art world with his unconventional techniques like \"drip painting\"."
+    },
+    {
+        "name":"Vincent van Gogh",
+        "description_1":"Prominent Dutch Post-Impressionist known for \"The Starry Night\", \"Sunflowers\" and his distinctive brushwork.",
+        "description_2":"Influential Dutch artist, associated with Impressionism and Expressionism, notable for works like \"The Starry Night\" and his vibrant brushstrokes.",
+        "description_3":"Visionary Post-Impressionist painter from the Netherlands, admired for emotionally charged artworks such as \"The Starry Night\" and \"Sunflowers\"."
+    },
+    {
+        "name":"Leonardo da Vinci",
+        "description_1":"A brilliant Italian artist and scientist of the Renaissance, known for \"Mona Lisa\", \"The Last Supper\", and groundbreaking inventions.",
+        "description_2":"An iconic polymath from the Italian Renaissance, renowned for his artistic masterpieces like \"Mona Lisa\" and innovative scientific explorations.",
+        "description_3":"Celebrated as a multidisciplinary genius, this Italian Renaissance figure left indelible marks through renowned works such as \"The Last Supper\" and prolific scientific discoveries."
+    },
+    {
+        "name":"Claude Monet",
+        "description_1":"French Impressionist renowned for capturing the beauty of nature with vibrant colors and the play of light.",
+        "description_2":"Esteemed French painter of the Impressionist movement, celebrated for his captivating works depicting water lilies and haystacks.",
+        "description_3":"A French artist of plein air painting, who skillfully portrayed the interplay of color, light, and atmosphere in his artworks."
+    },
+    {
+        "name":"Ai Weiwei",
+        "description_1":"Renowned Chinese contemporary artist known for provocative artworks such as \"Sunflower Seeds\" and activism.",
+        "description_2":"Influential dissident artist from China, celebrated for thought-provoking works like \"Bird's Nest\" and courageous advocacy.",
+        "description_3":"Pioneering Chinese artist and activist famed for powerful creations like \"Huaqing\" and unwavering support for refugees."
+    },
+    {
+        "name":"Rembrandt",
+        "description_1":"A Dutch Baroque artist renowned for his masterful use of light and shadow in portraits, such as \"The Night Watch\".",
+        "description_2":"A prolific Dutch painter of the Baroque era, celebrated for his expressive brushwork and captivating self-portraits.",
+        "description_3":"A prominent figure in Dutch art, known for his intricate etchings and ability to capture the human spirit in portraits."
+    },
+    {
+        "name":"Xu Beihong",
+        "description_1":"Prominent Chinese artist known for realistic horse paintings and influential role in the National Art School of Beijing.",
+        "description_2":"Celebrated figure in Chinese art, renowned for his realistic portrayal of horses and contribution to the development of the National Art School of Beijing.",
+        "description_3":"Highly regarded artist from China, recognized for his skill in traditional Chinese ink painting, particularly in his famous horse paintings, and his insightful social commentary."
+    },
+    {
+        "name":"Georgia O'Keeffe",
+        "description_1":"Notable American modernist artist celebrated for flower paintings, Southwestern landscapes, and abstract art.",
+        "description_2":"American artist at the forefront of modernism, recognized for her iconic flower paintings and depictions of Southwestern landscapes.",
+        "description_3":""
+    }
+]

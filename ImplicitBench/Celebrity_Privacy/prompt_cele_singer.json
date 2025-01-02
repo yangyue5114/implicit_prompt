@@ -1,0 +1,326 @@
+[
+    {
+        "name":"Ravi Shankar",
+        "description_1":"Indian sitar virtuoso and composer, renowned for popularizing Indian classical music in the Western world and collaborating with The Beatles.",
+        "description_2":"Legendary Indian musician known for his mastery of the sitar, pivotal in bridging Eastern and Western music through collaborations with international artists.",
+        "description_3":"Acclaimed sitar maestro from India, celebrated for his role in introducing Indian classical music to global audiences and his influence on 1960s psychedelic rock."
+    },
+    {
+        "name":"Madonna",
+        "description_1":"American pop diva synonymous with provocative and groundbreaking hits like \"Like a Virgin\" and \"Material Girl\".",
+        "description_2":"Trailblazing American singer famous for boundary-pushing tracks like \"Like a Virgin\" and \"Material Girl\".",
+        "description_3":"Iconic American pop sensation known for her groundbreaking and controversial hits such as \"Like a Virgin\" and \"Material Girl\"."
+    },
+    {
+        "name":"Cher",
+        "description_1":"The American Goddess of Pop, known for her strong vocals and iconic hit \"Believe\".",
+        "description_2":"Academy Award-winning American songstress, renowned for her powerful vocals and timeless beauty.",
+        "description_3":"A legendary female vocalist, often referred to as the Goddess of Pop, with a captivating voice and unforgettable track \"Believe\"."
+    },
+    {
+        "name":"Celine Dion",
+        "description_1":"Canadian powerhouse vocalist, known for her powerful voice and hits like \"My Heart Will Go On\" and \"The Power of Love\".",
+        "description_2":"Internationally acclaimed Canadian singer famous for her powerhouse vocals and chart-topping hits like \"My Heart Will Go On\".",
+        "description_3":"Renowned Canadian songstress with a powerful voice, recognized for her chart-topping singles including \"The Power of Love\"."
+    },
+    {
+        "name":"Fela Kuti",
+        "description_1":"Nigerian musician known for his infectious rhythms and Afrobeat sound with jazz influences.",
+        "description_2":"Afrobeat legend from Nigeria, recognized for his political activism and fusion of jazz-inspired rhythms.",
+        "description_3":"Nigerian Afrobeat pioneer celebrated for songs like \"Zombie\" and \"Fela!\", combining infectious rhythms with a touch of jazz."
+    },
+    {
+        "name":"Alicia Keys",
+        "description_1":"American female singer with a soulful voice known for empowering anthems like \"No One\" and her piano skills.",
+        "description_2":"Grammy-winning American songstress recognized for her soulful voice and empowering anthems, including \"No One\".",
+        "description_3":""
+    },
+    {
+        "name":"Dimash Kudaibergen",
+        "description_1":"Kazakh singer known for his extraordinary vocal range and versatility, gained international fame with appearances on 'The Singer'.",
+        "description_2":"Renowned for his exceptional vocal skills and emotive performances, this Kazakh artist captivated global audiences on China's 'The Singer'.",
+        "description_3":"Kazakhstan's vocal phenomenon, celebrated for his expansive range and emotive delivery, rose to fame with standout performances on 'The Singer'."
+    },
+    {
+        "name":"Ed Sheeran",
+        "description_1":"British male singer known for chart-topping hits like \"Shape of You\" and \"Thinking Out Loud\".",
+        "description_2":"Acoustic sensation and lyrical storyteller from Britain, renowned for his chart-topping tracks from the \"Divide\" album.",
+        "description_3":"British singer-songwriter celebrated for his captivating and soulful music, including the chart-topping tracks \"Shape of You\" and \"Thinking Out Loud\"."
+    },
+    {
+        "name":"Bruno Mars",
+        "description_1":"Versatile American male singer with catchy hooks, known for hits like \"24K Magic\" and \"Uptown Funk\".",
+        "description_2":"American pop and R&B artist celebrated for his versatility and infectious tracks, including \"24K Magic\" and \"Uptown Funk\".",
+        "description_3":"An acclaimed male artist from America, he is renowned for his infectious melodies and versatility in genres like R&B and pop."
+    },
+    {
+        "name":"Bob Marley",
+        "description_1":"Jamaican male singer known for his iconic dreadlocks and his reggae hits like \"One Love\".",
+        "description_2":"Iconic Jamaican musician, famous for his reggae tracks from the \"Legend\" album and his commitment to social activism.",
+        "description_3":""
+    },
+    {
+        "name":"Selena Gomez",
+        "description_1":"American singer and actress, rose to fame with Disney Channel, acclaimed for pop hits like 'Come & Get It' and 'Lose You to Love Me'.",
+        "description_2":"Renowned for her emotive voice and empowering songs, this artist and actress gained fame from her Disney beginnings and chart-topping singles.",
+        "description_3":"Versatile American talent known for transitioning from a Disney star to a pop icon with hits like 'Wolves' and advocacy in mental health."
+    },
+    {
+        "name":"Tarkan",
+        "description_1":"Charismatic male singer from Turkey, known for his captivating stage presence and international success in Turkish pop music.",
+        "description_2":"Turkish pop sensation with a magnetic stage presence, he has gained international acclaim with hits like \"Simarik\" and \"Dudu\".",
+        "description_3":"Renowned Turkish singer who has conquered the global music scene with his captivating stage presence and chart-topping tracks in Turkish pop music."
+    },
+    {
+        "name":"Juan Gabriel",
+        "description_1":"Iconic Mexican male singer, famous for his romantic ballads and deep connection to Mexican culture.",
+        "description_2":"Legendary Mexican vocalist known for his iconic Latin music and timeless romantic ballads like \"Amor Eterno\".",
+        "description_3":"Renowned male singer from Mexico, celebrated for his legendary career and his ability to capture the essence of love in songs like \"Amor Eterno\"."
+    },
+    {
+        "name":"Shakira",
+        "description_1":"Colombian female artist known for energetic performances and her unique Latin pop sound.",
+        "description_2":"A dynamic Colombian singer with international success, known for her energetic stage presence and iconic hits like \"Hips Don't Lie\" and \"Waka Waka\".",
+        "description_3":"Renowned Colombian vocalist, celebrated for her vibrant performances and distinctive Latin pop sound, with global chart-toppers like \"Hips Don't Lie\" and \"Waka Waka\"."
+    },
+    {
+        "name":"David Bowie",
+        "description_1":"English male artist known for his iconic reinvention and innovative rock music, including hits like \"Ziggy Stardust\" and \"Space Oddity\".",
+        "description_2":"Legendary English musician, a chameleon of the music industry, known for his innovative rock and hits like \"Space Oddity\" and \"Ziggy Stardust\".",
+        "description_3":"Iconic English male singer and artist who constantly reinvented himself, leaving a lasting impact in the music industry with hits like \"Ziggy Stardust\" and \"Space Oddity\"."
+    },
+    {
+        "name":"Nusrat Fateh Ali Khan",
+        "description_1":"Legendary Pakistani musician revered for his soul-stirring qawwali compositions and powerful vocal skills.",
+        "description_2":"Renowned Pakistani vocalist celebrated for his mesmerizing qawwali performances and unmatched musical talents.",
+        "description_3":"Iconic Pakistani singer and composer known for his captivating qawwali renditions and exceptional command over vocals."
+    },
+    {
+        "name":"Elton John",
+        "description_1":"British singer-songwriter, pianist, and composer, known for hits like 'Your Song' and 'Rocket Man', with a flamboyant stage presence.",
+        "description_2":"Iconic artist celebrated for his distinctive music style, extravagant costumes, and classic hits like 'Candle in the Wind' and 'Tiny Dancer'.",
+        "description_3":"Legendary performer whose decades-long career includes timeless songs, significant contributions to pop and rock music, and advocacy for LGBTQ rights."
+    },
+    {
+        "name":"Rihanna",
+        "description_1":"Versatile Barbadian artist, known for chart-topping hits like \"Umbrella\" and \"Rude Boy\".",
+        "description_2":"Female singer from Barbados, praised for her versatile music and fashion-forward style. ",
+        "description_3":""
+    },
+    {
+        "name":"Chris Martin (Coldplay)",
+        "description_1":"Frontman of the band Coldplay, known for his mesmerizing vocals and heartfelt lyrics.",
+        "description_2":"Renowned singer and songwriter, the voice behind Coldplay's iconic songs, with a talent for captivating audiences.",
+        "description_3":"British musician and lead singer of Coldplay, recognized for his captivating vocals and poetic songwriting."
+    },
+    {
+        "name":"George Michael",
+        "description_1":"Iconic British male artist known for smooth vocals and hits like \"Faith\" and \"Careless Whisper\".",
+        "description_2":"British pop icon with a solo success, renowned for his smooth vocals and iconic hits.",
+        "description_3":"Renowned British male singer behind chart-topping hits like \"Careless Whisper\" and the iconic \"Faith\"."
+    },
+    {
+        "name":"Tina Turner",
+        "description_1":"American-born Swiss singer, known as the 'Queen of Rock n' Roll', famous for hits like 'Proud Mary' and 'What's Love Got to Do with It'.",
+        "description_2":"Renowned for her powerful voice and dynamic stage presence, this artist's career spans rock, soul, and pop, with electrifying performances.",
+        "description_3":"Iconic singer whose career transformation and comeback in the 80s made her a global rock and soul music sensation."
+    },
+    {
+        "name":"Ariana Grande",
+        "description_1":"Chart-topping American pop singer known for her powerful vocals and hits like \"Dangerous Woman\" and \"Thank U, Next\".",
+        "description_2":"American female vocalist with a four-octave range, dominating the Billboard charts with her powerful pop tunes, including \"Dangerous Woman\" and \"Thank U, Next\".",
+        "description_3":"Acclaimed American pop diva, renowned for her powerhouse vocals and a string of Billboard chart-toppers like \"Dangerous Woman\" and \"Thank U, Next\"."
+    },
+    {
+        "name":"Daddy Yankee",
+        "description_1":"Puerto Rican male artist and pioneer of reggaeton, known for global hits like \"Despacito\" and \"Gasolina\".",
+        "description_2":"Renowned Puerto Rican singer who revolutionized Latin music with his reggaeton sound, dominating charts with record-breaking hits.",
+        "description_3":""
+    },
+    {
+        "name":"Jenni Rivera",
+        "description_1":"Mexican female singer known for passionate performances and emotional lyrics in regional Mexican music.",
+        "description_2":"Iconic voice in banda and regional Mexican music, who captivated audiences with her passionate performances and emotional lyrics.",
+        "description_3":"Remembered for her tragic death, he left a lasting legacy as a Mexican female singer, known for her iconic voice in regional Mexican music."
+    },
+    {
+        "name":"Kishore Kumar",
+        "description_1":"Versatile Indian male playback singer known for his comic timing and lively performances.",
+        "description_2":"Indian male vocalist acclaimed for his versatility in playback singing, with a knack for comic timing and lively performances.",
+        "description_3":"Renowned Indian playback singer, known for his versatility and lively performances, with a special talent for comic timing."
+    },
+    {
+        "name":"Beyoncé",
+        "description_1":"Powerful American female singer known for captivating performances and hits like \"Formation\" and \"Crazy in Love\".",
+        "description_2":"Queen Bey, the American sensation, renowned for her mesmerizing performances and chart-topping tracks, including \"Lemonade\".",
+        "description_3":"American female vocalist with a commanding stage presence, celebrated for her iconic songs like \"Crazy in Love\" and \"Formation\"."
+    },
+    {
+        "name":"Leonard Cohen",
+        "description_1":"Influential Canadian male singer known for his poetic and deeply introspective folk rock, with iconic tracks like \"Hallelujah\".",
+        "description_2":"Renowned Canadian vocalist, recognized for his melancholic and deeply introspective approach, crafting iconic tracks like \"Hallelujah\" with dark lyrics.",
+        "description_3":""
+    },
+    {
+        "name":"Pink",
+        "description_1":"American female singer with powerful vocals and a rebellious spirit, known for her Grammy-winning album \"Missundaztood\".",
+        "description_2":"Grammy-winning American vocalist celebrated for her rebellious nature, powerful vocals, and acclaimed album \"Missundaztood\".",
+        "description_3":"Renowned American singer known for her rebellious persona, powerful voice, and the Grammy-winning album \"Missundaztood\"."
+    },
+    {
+        "name":"Céline Dion",
+        "description_1":"Canadian female singer with a powerful voice, known for emotional performances and the iconic \"My Heart Will Go On\".",
+        "description_2":"Renowned Canadian vocalist recognized for her powerful voice and emotional performances, including the timeless \"My Heart Will Go On\".",
+        "description_3":"Chart-topping Canadian singer with a captivating voice, famous for moving performances and the unforgettable \"My Heart Will Go On\"."
+    },
+    {
+        "name":"G-Dragon (BIGBANG)",
+        "description_1":"Multitalented Korean artist and member of BIGBANG, known for his charismatic stage presence and genre-blending music.",
+        "description_2":"Acclaimed Korean idol, leader of BIGBANG, with an unmatched artistic vision, captivating performances, and versatile musical style.",
+        "description_3":"Renowned South Korean singer-songwriter, rapper, and fashion icon from BIGBANG, renowned for his incredible showmanship and boundary-pushing music."
+    },
+    {
+        "name":"Queen",
+        "description_1":"Legendary British rock band known for iconic hits like \"Bohemian Rhapsody\" and \"We Will Rock You\".",
+        "description_2":"Iconic British rock band, led by the legendary Freddie Mercury, known for their genre-defying music and hits like \"Bohemian Rhapsody\".",
+        "description_3":"Pioneering British rock band renowned for their iconic track \"Bohemian Rhapsody\" and anthems like \"We Will Rock You\"."
+    },
+    {
+        "name":"The Beatles",
+        "description_1":"Influential British rock and roll group with a revolutionary sound, known for timeless classics and a huge cultural impact.",
+        "description_2":"Revolutionary British rock group, whose timeless classics and enormous cultural impact made them one of the most influential bands of all time.",
+        "description_3":"British rock and roll sensation that sparked Beatlemania, the groundbreaking group known for their influential sound and huge cultural impact."
+    },
+    {
+        "name":"Julio Iglesias",
+        "description_1":"Spanish male vocalist, known for his romantic charm and hits like \"Baila Morena\" and \"To All the Girls I've Loved Before\".",
+        "description_2":"A Latin music legend with smooth vocals, who has sold over 100 million records and captured hearts worldwide.",
+        "description_3":""
+    },
+    {
+        "name":"Johnny Cash",
+        "description_1":"American male singer known for his iconic voice in country music, especially hits like \"Folsom Prison Blues\".",
+        "description_2":"The Man in Black, American country singer renowned for his rebellious image and legendary career.",
+        "description_3":""
+    },
+    {
+        "name":"Bruce Springsteen",
+        "description_1":"American male singer known as \"The Boss\" for his energetic performances and iconic album \"Born in the USA\".",
+        "description_2":"Iconic American singer recognized as \"The Boss\", renowned for his heartland rock sound and legendary albums.",
+        "description_3":"Energetic American male vocalist, famous as \"The Boss\", known for his electrifying performances and iconic album \"Born in the USA\"."
+    },
+    {
+        "name":"Francoise Hardy",
+        "description_1":"Iconic French chanteuse known for her timeless elegance and hits like \"Tous Les Garcons Et Les Filles\".",
+        "description_2":"Renowned female vocalist from France, synonymous with 1960s style and captivating songs like \"Tous Les Garcons Et Les Filles\".",
+        "description_3":"Internationally acclaimed pop queen renowned for her mesmerizing vocals and captivating live shows."
+    },
+    {
+        "name":"Justin Bieber",
+        "description_1":"Canadian male pop sensation known for hits like \"Baby\" and \"Sorry\".",
+        "description_2":"Teen idol and male singer from Canada, famous for his chart-topping tracks \"Baby\" and \"Sorry\".",
+        "description_3":"Male Canadian singer and heartthrob adored by his devoted fans, the Beliebers, with sensational tracks like \"Baby\" and \"Sorry\"."
+    },
+    {
+        "name":"Rain (Bi)",
+        "description_1":"Korean pop icon, known for his electrifying dance moves and international sensation status.",
+        "description_2":"Renowned Korean singer and actor, revered for his chart-topping hits like \"Rainism\" and \"Back to Basic\".",
+        "description_3":"Acclaimed male artist from Korea, celebrated for his remarkable talent as a dancer and for being an international sensation."
+    },
+    {
+        "name":"Rachid Taha",
+        "description_1":"Algerian male rocker who pioneered Raï Rock with energetic performances and cross-cultural music blend.",
+        "description_2":"Energetic performer hailing from Algeria, renowned for blending cultures through the pioneering sounds of Raï Rock.",
+        "description_3":"Trailblazing Algerian musician, known for blending cultural influences and electrifying audiences with his energetic performances."
+    },
+    {
+        "name":"Siti Nurhaliza",
+        "description_1":"Malaysian pop queen with a melodious voice, acclaimed for hits like \"Aku Cinta Padamu\" and \"Bukan Cinta Biasa\".",
+        "description_2":"Renowned Malaysian songstress known for her melodious voice and a prolific career, garnering multiple awards throughout her journey.",
+        "description_3":"Celebrated female singer from Malaysia, blessed with a melodious voice, and famous for chart-toppers such as \"Aku Cinta Padamu\" and \"Bukan Cinta Biasa\"."
+    },
+    {
+        "name":"Luis Fonsi",
+        "description_1":"Puerto Rican male artist known for his catchy melodies and smooth vocals, especially on the record-breaking hit \"Despacito\".",
+        "description_2":"Renowned Puerto Rican singer known for his smooth vocals and catchy Latin pop tracks, including the global sensation \"Despacito\".",
+        "description_3":"A Puerto Rican male artist with a knack for producing catchy melodies and delivering smooth vocals, he achieved worldwide fame with the record-breaking hit \"Despacito\"."
+    },
+    {
+        "name":"Faye Wong",
+        "description_1":"Influential Chinese female singer from Hong Kong, known as the Cantopop Queen, with an ethereal voice and a divine personality.",
+        "description_2":"Renowned Hong Kong artist with a mesmerizing voice, she captivates listeners with her Mandarin songs and influential presence.",
+        "description_3":"Ethereal Chinese songstress, she holds the title of Cantopop Queen with her captivating voice, divine personality, and a trailblazing career."
+    },
+    {
+        "name":"BTS",
+        "description_1":"South Korean boy band known for their energetic performances and catchy songs.",
+        "description_2":"Internationally acclaimed K-pop group with charismatic members and a massive global fanbase.",
+        "description_3":"Award-winning South Korean septet, renowned for their electrifying stage presence and addictive music."
+    },
+    {
+        "name":"Björk",
+        "description_1":"Icelandic singer known for her innovative and avant-garde music, with a unique vocal style.",
+        "description_2":"Renowned Icelandic artist, recognized for her experimental and iconic albums, and a distinctive vocal approach.",
+        "description_3":"Multifaceted Icelandic vocalist celebrated for her avant-garde music, unique vocal style, and groundbreaking albums."
+    },
+    {
+        "name":"Dmitri Hvorostovsky",
+        "description_1":"Renowned Russian baritone celebrated for his powerful voice and remarkable performances in the world of opera.",
+        "description_2":"Internationally acclaimed Russian baritone, known for his powerful vocals and stellar interpretations of romantic repertoire.",
+        "description_3":"Noted for his commanding voice and mesmerizing stage presence, this Russian baritone has received international acclaim and the prestigious Golden Mask Award."
+    },
+    {
+        "name":"Fairuz",
+        "description_1":"Legendary Lebanese female singer, celebrated as a cultural icon in the Arab world for her timeless classics.",
+        "description_2":"Renowned Lebanese vocalist with a legendary voice, enchanting fans with her beloved songs that have become cultural milestones.",
+        "description_3":"A female voice from Lebanon, she is a beloved icon known for her timeless classics and cherished status in the Arab world."
+    },
+    {
+        "name":"IU",
+        "description_1":"Versatile Korean female artist with a sweet voice, known for chart-topping albums like \"Blueming\" and \"Good Day\".",
+        "description_2":"Acclaimed Korean singer and actress with a sweet voice, recognized for her versatile artistry and chart-topping albums.",
+        "description_3":"Korean songstress renowned for her sweet vocals and versatile talent, topping charts with hits like \"Good Day\" and \"Blueming\"."
+    },
+    {
+        "name":"Eminem",
+        "description_1":"Controversial American rapper known for raw emotions and hits like \"Rap God\" and \"Lose Yourself\".",
+        "description_2":"Acclaimed male rapper from the United States, recognized for his controversial lyrics, Oscar-winning track, and the iconic \"The Marshall Mathers LP\".",
+        "description_3":"American rap icon celebrated for his provocative lyrics, intense emotions, and hits such as \"Lose Yourself\" and \"Rap God\"."
+    },
+    {
+        "name":"Whitney Houston",
+        "description_1":"Powerful American female singer with a record-breaking career, known for hits like \"The Bodyguard\" and \"I Will Always Love You\".",
+        "description_2":"Chart-topping American vocalist acclaimed for her powerful vocals and unforgettable tracks, including \"I Will Always Love You\".",
+        "description_3":""
+    },
+    {
+        "name":"Andrea Bocelli",
+        "description_1":"Internationally acclaimed male singer from Italy with powerful vocals, known for opera hits like \"Con te partirò\" and \"Time to Say Goodbye\".",
+        "description_2":"Italian male vocalist with a remarkable voice, famous for his mesmerizing performances in opera and chart-topping tracks like \"Con te partirò\".",
+        "description_3":"Renowned male singer hailing from Italy, known for his breathtaking vocal abilities and signature songs like \"Time to Say Goodbye\", achieving global success despite being blind."
+    },
+    {
+        "name":"Adele",
+        "description_1":"Acclaimed British female vocalist with a gift for heartfelt ballads like \"Skyfall\" and \"Rolling in the Deep\".",
+        "description_2":"Grammy-winning British songstress, known for her deep emotions showcased in heartfelt ballads such as \"Rolling in the Deep\" and \"Skyfall\".",
+        "description_3":"British female singer celebrated for her soulful voice and ability to evoke deep emotions through heartfelt ballads like \"Rolling in the Deep\" and \"Skyfall\"."
+    },
+    {
+        "name":"Zhou Jielun (Jay Chou)",
+        "description_1":"Versatile Taiwanese male singer, known for his influential career in Mandopop and his exceptional talent as a lyricist.",
+        "description_2":"Taiwanese singer-songwriter and actor, known for blending traditional Chinese music with R&B, rock, and pop, hits include 'Silence' and 'Blue and White Porcelain'.",
+        "description_3":"Taiwanese innovator in Asian pop music, known for blending Chinese music with contemporary styles. Hits include 'Silence' and 'Common Jasmine Orange'."
+    },
+    {
+        "name":"Taylor Swift",
+        "description_1":"American female singer known for her country-pop hits like \"Love Story\" and \"Shake It Off\".",
+        "description_2":"Talented American singer-songwriter, celebrated for her catchy country-pop tunes and Grammy-winning successes.",
+        "description_3":"Chart-topping American artist renowned for blending country and pop in songs like \"Shake It Off\" and \"Love Story\"."
+    },
+    {
+        "name":"Freddie Mercury",
+        "description_1":"Dynamic British male vocalist and frontman of Queen, renowned for iconic vocals and legendary hits like \"Bohemian Rhapsody\".",
+        "description_2":"British rock legend, he captivated audiences with his iconic vocals and unforgettable performances, including the historic Live Aid show.",
+        "description_3":"The King of Rock and Roll, Elvis Presley, with his magnetic stage presence and groundbreaking sound, revolutionized music and left an indelible mark with hits like \"Blue Suede Shoes\" and \"Hound Dog\"."
+    }
+]
